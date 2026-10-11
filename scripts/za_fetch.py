@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Fetch the list of national Acts published on www.gov.za and download their PDFs.
+"""Fetch the list of national Acts published on www.gov.za (step 1 of 2).
 
 Steps (each cached under RAW, so re-runs only fetch what is missing):
   1. list   - crawl https://www.gov.za/documents/acts?page=N  -> RAW/list/page-N.html
   2. detail - fetch each Act's document page                  -> RAW/detail/<slug>.html
-  3. pdf    - download the attached PDF(s)                     -> RAW/pdf/<slug>/<file>.pdf
-  An index of everything is written to RAW/index.json.
+  An index of everything (incl. PDF URLs) is written to RAW/index.json.
+  The PDFs themselves are downloaded, text-extracted and deleted by za_convert.py.
 
 Usage: python za_fetch.py [--raw DIR] [--refresh-list] [--workers N]
 """
@@ -156,25 +156,17 @@ def main():
             return r
         r.update(parse_detail(html))
         r["slug"] = slug
-        r["files"] = []
-        for u in r["pdfs"]:
-            fn = re.sub(r"[^A-Za-z0-9._-]+", "_", unquote(u.rsplit("/", 1)[-1]))
-            p = os.path.join(raw, "pdf", slug, fn)
-            if cached(p, u, binary=True) is not None:
-                r["files"].append(os.path.relpath(p, raw))
-            else:
-                r.setdefault("pdf_errors", []).append(u)
         return r
 
     done = 0
     with ThreadPoolExecutor(a.workers) as ex:
         for r in ex.map(work, uniq):
             done += 1
-            if done % 100 == 0:
+            if done % 200 == 0:
                 print(f"{done}/{len(uniq)}", flush=True)
     with open(os.path.join(raw, "index.json"), "w") as f:
         json.dump(uniq, f, indent=1, ensure_ascii=False)
-    print("errors:", sum(1 for r in uniq if r.get("error") or r.get("pdf_errors")))
+    print("errors:", sum(1 for r in uniq if r.get("error")))
 
 
 if __name__ == "__main__":
