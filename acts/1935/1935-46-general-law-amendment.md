@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/general-law-amendment-act-14-may-1935-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act46of1935.pdf"
 gazette: "G 2274"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,9 +37,7 @@ exercise any such authority or perform any such · functions within the area of 
 
 (4) Every Attorney-General and the Solicitor General shall exercise their authority and perform their functions under this Act and under any other law subject to the control and directions of the Minister who may, if he thinks fit, reverse any decision arrived at by an Attorney-General or the Solicitor-General and may himself in general or in any specific matter exercise any part of such authority and perform any such function. .
 
-(5) The persons who are, upon the date upon which this section comes into operation, holding office as Attor~ey-General and Solicitor-General, Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-nii . UNION GAZETTE EXTRAORDINAIW, 14Tn MAY, 1935.
+(5) The persons who are, upon the date upon which this section comes into operation, holding office as Attor~ey-General and Solicitor-General, nii . UNION GAZETTE EXTRAORDINAIW, 14Tn MAY, 1935.
 
 respectively, shall after that date, be deemed to have been appointed as such under this section.
 

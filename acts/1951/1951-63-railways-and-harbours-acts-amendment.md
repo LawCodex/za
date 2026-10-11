@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-acts-amendment-act-17-jul-1951-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-63-1951.pdf"
 gazette: "G 4658"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -35,8 +36,6 @@ BE IT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 (b) The said annuity shall be based on a sum equal to cither-
 
 (i) twice the annual average of the deceased member's pensionable emoluments for the last seven years of his service, plus five per cent. of such annual average in respect of each complete year in respect of which he contributed; or (ii) twice the amount of the deceased member's contributions, or, in the case of a member who has died as a result of severe bodily injury sustained without his own default whilst in the discharge of his duties, twice · the amount of his contributions, plus interest at the rate of four per cent. per annum, whichever is the greater. The said sum is hereinafter in this section and in section forty nine referred to as the 'basic sum', and the annuity shall be calculated by multiplying each one hundred pounds or fraction thereof, of the basic sum by the appropriate factor set forth in the follnwiog Table:
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 10 UNION GAZETTE EXTRAORDINARY, 17TH JULY, 1951.
 

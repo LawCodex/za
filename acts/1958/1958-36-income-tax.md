@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/income-tax-act-12-may-2015-0840"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-36-1958.pdf"
 gazette: "G 6118"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -34,9 +35,7 @@ To fix the rates of normal and super Income tax in respect of the year of assess
 
 Provided further that there shall be added to the amount of tax calculated in accordance with the preceding provisions of this item (including the foregoing proviso thereto) a sum equal to twenty-five per centum of the net amount arrived at after deducting the rebates provided for in section thirteen of · the principal Act from the amount of tax so calculated;
 
-(b) in respect of so much of the taxable income as has been derived by any company from mining in the Union for gold (but with the exclusion of so much of the taxable income as the Com missioner deterinines to be atUibutable to the Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-inclusion in the gross income of any amount referred to in paragraph (/) of the definition of
+(b) in respect of so much of the taxable income as has been derived by any company from mining in the Union for gold (but with the exclusion of so much of the taxable income as the Com missioner deterinines to be atUibutable to the inclusion in the gross income of any amount referred to in paragraph (/) of the definition of
 
 "gross income" in section seven of the principal Act). on each pound of the taxable income a percentage determined in accordance with the formula:
 

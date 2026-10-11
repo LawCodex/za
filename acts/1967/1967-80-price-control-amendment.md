@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/price-control-amendment-act-14-jun-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-80-1967.pdf"
 gazette: "G 1764"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -43,8 +44,6 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 5\. The following section is hereby substituted, with effect from the second day of October, 1964, for section 9 of the principal Act: .
 
 "'Cef!~ 9. (1) The controller may from time to time by conditiOnal notice in the Gazette or, with the authority of the sales or Mini" · h f · u1 b the rendering ster, ID t e case o any partie ar person, y of services notice in writing, prohibit the sale of any goods or on «:f!ain the rendering of any services subject to conditions conditions specified in the notice or the refusal to sell any may be d d ' · b" prohibited goo s or ren er any semces except su ~ect to · conditions so specified, whether the maximum price for the sale of such goods or the maximum charge for the rendering of such services has been fixed under this Act or not.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 90 No. 1764 Amendment of section 11 of Act 2S or 1964.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-special-pensions-act-19-may-2015-1255"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-36-1955.pdf"
 gazette: "G 5494"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,9 +39,7 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 (b) died on or after the first day of October, 1953,but prior to the twenty-third day of April, 1954, while he was still in the Service and without having made the election provided for in sub-section (1) of section three of the Railways and Harbours Special Pensions Act, 1953 (Act No. 41 of 1953); or (c) retired or was retired from the Service on an annuity otherwise than under the circumstances mentioned in section eleven bis of the Railways and Harbours Service Act, 1925 (Act No. 23 of .. 1925)-
 
-(i) on or before the first day of October, 1953, and thereafter died prior to the date of commencement of this Act; or Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-4 ONION GAZETTE EXTRAORDINARY~ 17Til JUNE, 1955 .. · ....
+(i) on or before the first day of October, 1953, and thereafter died prior to the date of commencement of this Act; or 4 ONION GAZETTE EXTRAORDINARY~ 17Til JUNE, 1955 .. · ....
 
 Pensionable emoluments of certain former members of pension funds deemed to have been increased by twenty-five per cent.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/extension-powers-executive-committees-and-administrators-act-15-may-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-41-1964.pdf"
 gazette: "G 793"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -27,5 +28,3 @@ To empower an administrator of a province to acquire, in certain circumstances, 
 (2) If the administrator and the owner in question are unable to agree on the conditions of the acquisition in terms of sub· section (1) of any land or any interest in land, the laws relating to the expropriation of land for public purposes in force in the province in question, shall mutatis mutandis apply in respect of such acquisition, and if in any province no such laws are in force, the Expropriation of Lands and Arbitration Oauses Proclamation, 1902 (Proclamation No. S of 1902 of the Trans vaal), shall in such province so apply in respect thereof.
 
 2\. This Act shall be called the Extension of Powers of Execu· Short title. tive Committees and Administrators Act, 1964.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

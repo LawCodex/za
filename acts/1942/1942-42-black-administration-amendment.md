@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/native-administration-amendment-act-28-may-2015-1127"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-42-1942.pdf"
 gazette: "G 3047"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -51,8 +52,6 @@ under section siz ,. •
 Amenrlmont. or 3, Section Cwenty-seven of the principal Act is hereby amended eoction 27 or Act as by tho deletion at the end of paragraph (cl)bi1 of sub-section o!l02?,.nallmcndod (1) of the word" and" and the insertion after the said para-by sochon 2 of. Act . • o of 19:1!1. graph of the followmg paragraph: ·
 
 " (cl)ter. tho control or regulation of any tribal practice involving the mutilation or removal of or any opera tion upon any part of the body; and".
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 iv UNION GAZETl'E EXTRAORDINARY, 2Sru APRIL, 1942 • .lmendment of 4. Section thirtg{our of the principal Act is hereby amended aection 3f of .Act 38 by the addition at the end thereof of the following worda : or 1 ~27• "or to the areas comprising the Fingo and the Hottentot village situate within the urban area of Grahamstown in the province of the Cape of Good Hope.".
 

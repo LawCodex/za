@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-acts-amendment-act-3-mar-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-6-1965.pdf"
 gazette: "G 1050"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -34,9 +35,7 @@ Railways and Harbours Control and Management (Consolidation) Act, 1957 (Act No. 
 
 "(3) (a) A Bantu who has been in the service of the Administration from a date prior to the first day of January, 1955, during a continuous period of ten years or longer or intermittently during periods which amount in the aggregate to a period of ten years or longer, and whose services are terminated for the · reason that, in terms of any law relating to Bantu or in consequence of any action taken by competent authority pursuant to such law, it has become unlawful for him to remain or work in the area in which be is · employed shall, for the purposes of sub-section (1), be deemed to have been retired from the service of the Administration because of a fact mentioned in paragraph (c) of that sub-section:
 
-Provided that such Bantu shall be entitled to a gratuity only. · Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-16 No. 1050 GOVERNMENT GAZETIE EXTRAORDINARY, 3 MARCH 1965 section 7 of Act 26 of 1941.
+Provided that such Bantu shall be entitled to a gratuity only. · 16 No. 1050 GOVERNMENT GAZETIE EXTRAORDINARY, 3 MARCH 1965 section 7 of Act 26 of 1941.
 
 Amendment of section 8 of Act 26 of 1941.
 

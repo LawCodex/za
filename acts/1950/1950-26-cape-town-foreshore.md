@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/cape-town-foreshore-act-19-may-2015-1257"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-26-1950.pdf"
 gazette: "G 4406"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -56,7 +57,7 @@ BE IT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 
 6\. (I) There shall be payable to every member of the board Remuneration who is not an officer in the public service, such remuneration anrd allobewancer• d II . fhis . th G omem rso an a owances to r~spect o sernces as c overnor· board. · General may determme.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. r UNION GAZETIE EXTRAOHDINAHY, 16T!l JUNE, 1950.
+r UNION GAZETIE EXTRAOHDINAHY, 16T!l JUNE, 1950.
 
 (2) A member of the board who is an officer in the public service may receive such remuneration, in addition to his salary and allowances as such an officer, as may be determined subject to the laws governing the public service.
 

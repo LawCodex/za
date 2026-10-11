@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/avbob-mutual-assurance-society-incorporation-private-act-7-1951-16-mar-1951"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-7-1951.pdf"
 gazette: "G 4563"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -49,8 +50,6 @@ AND WHEREAS it is desirable to provide the terms on which the shares shall be he
 AND WliEREAS it is desir~ble to place certain limitations on the powers of the company in respect of the increase of share capital, the issue of unissued shares and the alteration of the articles pending the reconstitution of the company as a mutual assurance society:
 
 AND WHEREAS it is desirable to provide that when all the shares have been transferred to the trustees the court shall have the power to determine a date upon which the paid-up share capital 10 the company shall be patd off and the shares cancelled and the company shall be reconstituted a mutual assurance s<;>ciety: AND WHEREAS it is desirable to provide for the incorporation, constitution, metnbership and internal management and for a head ~!lice of the society:
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 8 UNION GAZETIE EXTRAORDINARY, 16TH MARCH, 1951.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/kimberley-leasehold-conversion-freehold-amendment-act-23-apr-2015-1057"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-10-1966_0.pdf"
 gazette: "G 1380"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

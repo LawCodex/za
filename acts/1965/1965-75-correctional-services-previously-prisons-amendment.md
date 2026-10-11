@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/correctional-services-previously-prisons-amendment-act-75-1965-23-jun-1965"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-75-1965.pdf"
 gazette: "G 1154"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -33,8 +34,6 @@ To amend tbe Prisons Act, 1959.
 "'prison' means any place established or deemed to have been established under this Act as a place for the reception, detention, confinement, training or treatment of persons liable to detention in custody, and includes the seashore, the sea within a distance of one nautical mile from low-water mark and aU land, outbuildings and premises adjacent to any such place and used in connection therewith and all land, branches, outstations, camps, · buildings, premises or places to which any such persons have been sent for the purpose of imprisonment, detention, labour, treatment or otherwise, and all quarters of members of the Prisons Service used in connection with any such prison; and for the purposes of any offence under this Act or any contravention of or failure to comply with any provision of this Act, further includes every place used as a police cell or lock-up;".
 
 l. The principal Act is hereby amended by the substitution for the word .. Governor-General'', wherever it occurs, of the words "State President" and for the word "Union", wherever it occurs, of the word "Republic".
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 8 - No. US.. GOVERNMENT , GAZETIE EXTRAORDINARY, 231lD-lUNE, 196S Insertion of section 9biJ in .ru:t 8 of19S9.
 

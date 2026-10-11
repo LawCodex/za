@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/land-bank-amendment-act-35-1961-19-may-1961"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-35-1961.pdf"
 gazette: "G 6691"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -37,8 +38,6 @@ so seized by public tender on the conditions which it may determine", and by the
 ''(a)bis (i) Notwithstanding anything to the contrary contained in this Act, the board may with a view to making an advance under this section to any farmer for the purchase of any movable property, issue to that farmer a letter of authority purporting to convey to the seller of such property that the bank will advance the purchase price of the property in question or any part of such price if the conditions which the board may specify in such letter are satisfied or complied with, and the board may, if the seller on the strength of such letter disposes of the property in question to such farmer and the said farmer fails to observe or to comply with any condition which he is in terms of such letter required to observe or to comply with, seize such property in any manner provided for in paragraph (a} and out of the funds of the bank pay to the seller of such property so much of the purchase price as the board may in the said letter of authority have undertaken to advance.
 
 (ii) Any amount paid by the hank under sub paragraph (i), together with any interest thereon, shall constitute a debt due by the farmer concerned in favour of the bank and may, subject to the provisions· of sub paragraph (iii), be recovered from such farmer as if it were a debt due under a civil judgment of a court of law having jurisdiction in the matter.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 4 UNION GAZETTE EXTRAORDINARY, 19tH MAY, 1961.
 

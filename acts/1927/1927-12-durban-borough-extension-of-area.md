@@ -10,7 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/durban-borough-extension-area-act-19-may-1927-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act12of1927.pdf"
 gazette: "G 1630"
-text_quality: "ocr-bilingual-columns"
+text_quality: "ocr-bilingual-columns (scanned Gazette, English column extracted automatically; OCR errors likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

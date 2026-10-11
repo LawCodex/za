@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/expropriation-establishment-undertakings-amendment-act-19-may-2015-1253"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-52-1955.pdf"
 gazette: "G 5496"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,4 +37,4 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 3\. This Act shall be called the Expropriation (Establishment of UndertakinS?"s) Amendment Act, 1955.
 
-Ql PRINTED IN mE UNION OP SOTITH AFRICA BY CAPE TIMES LIMITED, PAROW, C.P.-C388 Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+Ql PRINTED IN mE UNION OP SOTITH AFRICA BY CAPE TIMES LIMITED, PAROW, C.P.-C388

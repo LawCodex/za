@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/rhodes-trust-incorporation-private-act-16-1931-02-jun-1931"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act16of1931.pdf"
 gazette: "G 1954"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,9 +37,7 @@ AND WHE.RE.AS it is desirable to make provision for the resignation and appointm
 
 AND .WHEREAS it is desirable that the properties in the·Union which immediately prior to the commencement of this Act were vested in or administered by the trustees should without ' payment of transfer duty or stamp duty, but upon payment of the prescribed fees of office of any deeds registry con cerned, be vested in the Rhodes Trust ; and that the respective Registrars of Deeds should make such entries and endorse- 50 ments as may be necessary _to give effect to this Act: ' _ AND · WHEREAS it is desirable that the Rhodes Trust should have a common seal and power to delegate its powers : · AND WHEREAS it is desirable that the Rhodes Trust should" maintain an office within the Union:
 
-A~m WHEREAS it is desirable that the costs incurred in · connection with this Act should be paid by t,he Rhodes Trust ou..t ·of fu..nds ii). * h~~d.s ; · · - Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-iv Rhodes Trust a body corporate.
+A~m WHEREAS it is desirable that the costs incurred in · connection with this Act should be paid by t,he Rhodes Trust ou..t ·of fu..nds ii). * h~~d.s ; · · - iv Rhodes Trust a body corporate.
 
 Resignation and appointment of trustees.
 

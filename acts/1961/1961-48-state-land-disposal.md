@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/state-land-disposal-act-28-jun-1961-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-48-1961.pdf"
 gazette: "G 26"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -53,8 +54,6 @@ the deed in terms of which such land is so disposed of shall contain a stipulati
 (2) Any documents required to effect registration of a deed mentioned in paragraph (a) of sub-section (I), any lease men tioned in paragraph (b) of the said sub-section not signed by the State President, and any documents required to effect the registration of such a lease in a deeds registry, shall be signed on behalf of the State by a person authorized thereto by the State President either general1y or in regard to specified State land or in any specified case.
 
 6\. (1) The State President may either generally or in regard to specified State land or in a specified case assign to the Minister any power or duty conferred or imposed upon him by section two or .five and any power or duty to issue deeds of grant which he may otherwise have.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 4 GOVERNMENT GAZETTE EXTRAORDINARY, 28m JUNE. 1961 Assignment of PQwers and duties by Minister.
 

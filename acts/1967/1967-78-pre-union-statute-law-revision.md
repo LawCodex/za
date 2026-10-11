@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/pre-union-statute-law-revision-act-14-jun-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-78-1967.pdf"
 gazette: "G 1764"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -44,7 +45,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 3\. This Act shall be called the Pre-Union Statute Law Re vision Act, 1967.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 38 · No. 1764 GOVERNMENT GAZETTE EXTRAORDINARY, 14TH JUNE, 1967
+38 · No. 1764 GOVERNMENT GAZETTE EXTRAORDINARY, 14TH JUNE, 1967
 
 ## Schedule.
 

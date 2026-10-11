@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/carnarvon-outer-commonage-settlement-act-amendment-act-5-jul-1920-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act16of1920.pdf"
 gazette: "G 1072"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/black-administration-amendment-act-9-1939-29-mar-1939"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-9-1939.pdf"
 gazette: "G 2620"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -59,8 +60,6 @@ and (v) genera lly, the giving of credit by traders to Natives so employed; and"
 " marriag e " of the following new definition :
 
 " 'mine' bears the meaning assigned to the expression by section two of the Native Labour Regulation Act, 1911 (Act No. 15 of 1911), as amended by section thirty-thre e of the Native Laws Amend ment Act, 1937 (Act No. 4.6 of 1937) ";
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 xvi UNION GAZETTE EXTRAORDINARY, 2!hu MARCH, 1939.
 

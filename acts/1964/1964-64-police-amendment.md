@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/police-amendment-act-64-1964-26-jun-1964"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-64-1964.pdf"
 gazette: "G 830"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -49,8 +50,6 @@ as follows:-
 S. Section seven of the principal Act is hereby amended by Am~dment of the substitution for the word "Governor-General'! wherever it ~C:~~l {'/sa. occurs of the words "State President" and for the word .. Union" wherever it occurs of the word "Republic". ·
 
 6\. Section eight of the principal Act is hereby amended by Am~ndmeft of the substitution in sub-section (2) for the word "Governor- ~~~~1 1~58, General" of the words "State President". as amended by section 3 of Act 53 of 1961.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 7\. Section nine of the principal Act is hereby amended- Am:ndment or . . . .• . . section 9 or (a) by the substitution in sub-section (1) for the words Act 7 of 1958,
 

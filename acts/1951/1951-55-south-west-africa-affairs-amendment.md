@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/south-west-africa-affairs-amendment-act-55-1951-20-jul-1951"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-55-1951.pdf"
 gazette: "G 4663"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -46,9 +47,7 @@ The Transvaal Provincial Division of the Supreme Court of South Africa and the A
 
 #### 4. I
 
-4\. (1) The High Court of South-West Africa shall as from the date referred to in sub-section (I) of section two, cease to have jurisdiction in the said Eastern Caprivi Zipfel and as from that date the Transvaal Provincial Division of the Supreme Court of South Africa and any circuit court referred to in section eight of the General Law Amendment Act, 1949 (Act No. 54 of 1949), shall exercise within the said Eastern Caprivi Zipfel the same jurisdiction as it has in the province of the Transvaal. Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-44 UNION GAZETIE EXTRAORDINARY, 20TH JULY, 1951.
+4\. (1) The High Court of South-West Africa shall as from the date referred to in sub-section (I) of section two, cease to have jurisdiction in the said Eastern Caprivi Zipfel and as from that date the Transvaal Provincial Division of the Supreme Court of South Africa and any circuit court referred to in section eight of the General Law Amendment Act, 1949 (Act No. 54 of 1949), shall exercise within the said Eastern Caprivi Zipfel the same jurisdiction as it has in the province of the Transvaal. 44 UNION GAZETIE EXTRAORDINARY, 20TH JULY, 1951.
 
 Proclamations to be submitted to Parliament.
 

@@ -9,6 +9,7 @@ version: "as enacted (Government Gazette text)"
 status: unknown
 source: "https://www.gov.za/documents/dongola-wild-life-sanctuary-repeal-act-28-may-2015-0854"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-29-1949.pdf"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -31,4 +32,4 @@ BE IT ENACTED by tho King's Most Excellent Majesty, the Senate and the House o{ 
 
 4, This Act shall be called the Dongola Wild Life Sanctuary Repeal Act, 194.9.
 
-t FB.UinD IN TBI UNIOM or IIOUTll AFRICA ar TBC CAPI tilln LUUTID 1 CAPJ: fOWN . l::JUlS2 Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+t FB.UinD IN TBI UNIOM or IIOUTll AFRICA ar TBC CAPI tilln LUUTID 1 CAPJ: fOWN . l::JUlS2

@@ -10,13 +10,12 @@ status: unknown
 source: "https://www.gov.za/documents/fertilizers-farm-feeds-seeds-and-remedies-act-28-may-2015-1101"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-36-1947.pdf"
 gazette: "G 3751"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
 
 # Fertilizers, Farm Feeds, Seeds and Remedies Act 36 of 1947
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 EXTRAORDINARY BUITENGEWONE THE UNION. OF SOUTH ~o"ernment Staats·hoerant VAN DIE UNIE VAN (~ at tbt atn11a1 Post Ofltcl u a Nt..,.,_.]
 

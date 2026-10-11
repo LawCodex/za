@@ -10,13 +10,12 @@ status: unknown
 source: "https://www.gov.za/documents/acts/standards-amendment-act-61-1968-26-jun-1968"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-61-1968.pdf"
 gazette: "G 2107"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
 
 # Standards Amendment Act 61 of 1968
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 EXTRAORDINARY BUITENGEWONE REPUBLIC OF SOUTH GOVER~ENT STAATSKOERANT VAN DIE REPUBLIEK Registered at the Post Office as a Newspaper Price lOc . Prys Overseas . l5c Oorsee POST FREE-POSVRY CAPE TOWN, 26m JUNE, Vol. 36.] [No. 2107.
 

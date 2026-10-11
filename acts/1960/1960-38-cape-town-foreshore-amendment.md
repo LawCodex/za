@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/cape-town-foreshore-amendment-act-30-apr-2015-1006"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-38-1960.pdf"
 gazette: "G 6431"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -27,5 +28,3 @@ To amend the Cape Town Foreshore Ac:t, 1950.
 "Provided that if in the case of any such land or property let by the board, the Minister after consultation with the board and the council so determines, the council may levy rates, payable by the lessee concerned, on that land or property as from a date and on the basis similarly deter mined by the Minister.".
 
 2\. This Act shall be called the Cape Town Foreshore Amend- Short title. ment Act, 1960.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

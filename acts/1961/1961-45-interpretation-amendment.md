@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/interpretation-amendment-act-21-jun-1961-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-45-1961.pdf"
 gazette: "G 19"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -61,8 +62,6 @@ of the State.
 6\. Section eighteen of the principal Act is hereby amended by the substitution for the words "establishment of the Union•• of the words "thirty-first day of May, 1910" and for the words
 
 "South Africa Act, 1909" of the words "Republic of South Africa Constitution Act, 1961 ".
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 22 GOVERNMENT GAZETTE EXTRAORDINARY, 21sT JUNE, 1961 Amendment of section 19 of Act 33 of 1957.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/income-tax-act-30-jun-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-88-1965.pdf"
 gazette: "G 1163"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -30,9 +31,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 (2) The provisions of this section shall be deemed to have come into operation on the first day of March, 1965.
 
-3\. For the purposes of assessing any tax imposed by a provincial council in the exercise of its powers under the Financial Relations Consolidation and Amendment Act, 1945 (Act No. 38 of 1945), on the incomes of persons, the amount of normal tax payable under this Act by any person other than a company in respect of the year of assessment ending the twenty-eighth day of February, 1966, or the thirtieth day of June, 1966, whichever is applicable, shall, notwithstanding the provisions of the first-mentioned Act, be deemed to be equal Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-170 No.1163 GOVERNMENT GAZEITE EXTRAORDINARY, 30m JUNE, 1965 Certain portions of the normal tax to be repay able to the taxpayers concerned.to the amount which would have been payable as normal tax in terms of item (a) of paragraph l of the Schedule to this Act if the proviso to that item had not been enacted.
+3\. For the purposes of assessing any tax imposed by a provincial council in the exercise of its powers under the Financial Relations Consolidation and Amendment Act, 1945 (Act No. 38 of 1945), on the incomes of persons, the amount of normal tax payable under this Act by any person other than a company in respect of the year of assessment ending the twenty-eighth day of February, 1966, or the thirtieth day of June, 1966, whichever is applicable, shall, notwithstanding the provisions of the first-mentioned Act, be deemed to be equal 170 No.1163 GOVERNMENT GAZEITE EXTRAORDINARY, 30m JUNE, 1965 Certain portions of the normal tax to be repay able to the taxpayers concerned.to the amount which would have been payable as normal tax in terms of item (a) of paragraph l of the Schedule to this Act if the proviso to that item had not been enacted.
 
 4\. ·(I) Notwithstanding the provisions of sub-section (I) of section .five of the principal Act, the portion of the normal tax (hereinafter referred to as the loan portion of the normal tax) determined in accordance with the provisions of item (g) or (h) of paragraph 1 of the Schedule to this Act and paid by the person concerned shall be repayable to such person in the manner and at the time hereinafter provided.
 

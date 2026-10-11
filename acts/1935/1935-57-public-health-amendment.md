@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/public-health-amendment-act-17-may-1935-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act57of1935.pdf"
 gazette: "G 2275"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

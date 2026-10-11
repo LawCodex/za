@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/revenue-laws-amendment-act-1-jul-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-77-1964.pdf"
 gazette: "G 839"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -40,9 +41,7 @@ Provided that on so much of the said value or the said amount, as the case may b
 
 (c) by the addition of the following sub-section: and s~on 3 of
 
-"(8) No duty shall be payable in respect of the Act 70 f 1963. acquisition on or after the sixteenth day of March, 1964, of property by any company (hereinafter referred to as the subsidiary company) which is registered, managed and controlled m the Republic from any Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-other company (hereinafter referred to as the parent company) which is registered, managed and controlled outside the Republic if it is proved to the satisfaction of the Secretary- ( a) that at the time of such acquisition the parent company held for its own benefit all the issued ·shares of the subsidiary company; and (h) that the subsidiary company has under an arrange ment with the parent company acquired from the parent company all the assets, including the said property, relating to any industrial or com mercial or other business undertaking of the parent company in the Republic:•.
+"(8) No duty shall be payable in respect of the Act 70 f 1963. acquisition on or after the sixteenth day of March, 1964, of property by any company (hereinafter referred to as the subsidiary company) which is registered, managed and controlled m the Republic from any other company (hereinafter referred to as the parent company) which is registered, managed and controlled outside the Republic if it is proved to the satisfaction of the Secretary- ( a) that at the time of such acquisition the parent company held for its own benefit all the issued ·shares of the subsidiary company; and (h) that the subsidiary company has under an arrange ment with the parent company acquired from the parent company all the assets, including the said property, relating to any industrial or com mercial or other business undertaking of the parent company in the Republic:•.
 
 (2) Paragraph {c) of sub-section (1} shall be deemed to have come into operation on the sixteenth day of March, 1964.
 

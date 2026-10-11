@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/friendly-societies-act-22-may-2015-1348"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-25-1956_0.pdf"
 gazette: "G 5679"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -52,7 +53,7 @@ INTERPRETATION OF TERMS.
 
 (x) "member", in relation to a friendly society, means any person who contributes to the society in order to obtain any benefit referred to in section two, either for himself or for any other person mentioned in that section, and includes any association which contri butes to a central society referred to in section thirty nine; (xi)
 
-(xi) "Minister" means the Minister of Finance; (xiii) Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+(xi) "Minister" means the Minister of Finance; (xiii) as the other language is printed on even numbered pages.
 
 (xii) "officer", in relation to a society, means any member ~ of a committee appointed to manage the affairs of the society, or any individual so appointed, or any man ager, principal officer, treasurer, clerk or other agent or employee of the society, but does not include an auditor appointed under section eleven; (iii)
 

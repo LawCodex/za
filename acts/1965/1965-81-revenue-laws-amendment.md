@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/revenue-laws-amendment-act-30-jun-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-81-1965.pdf"
 gazette: "G 1163"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,7 +37,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 "(8) No duty shall be payable in respect of the acquisition on or after the sixteenth day of March, 1964, of property by any company (hereinafter referred to as the subsidiary company) which is registered, managed and controlled in the Republic from any other company (hereinafter referred to as the foreign company) which is registered, managed and controlled outside the Republic if it is proved to the satisfaction of the Secretary-
 
-(a) that at the time of such acquisition all the issued shares of the subsidiary company were held for its own benefit by the foreign company or a company which was registered, managed and controlled outside the Republic and was controlled by or controlled the foreign company; and (b) that the subsidiary company has under an arrange ment . with the foreign company acquired from the foreign company all the assets, including the said property, relating to any industrial or com mercial or other business undertaking of the foreign com!Jany in the R~public."; and Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+(a) that at the time of such acquisition all the issued shares of the subsidiary company were held for its own benefit by the foreign company or a company which was registered, managed and controlled outside the Republic and was controlled by or controlled the foreign company; and (b) that the subsidiary company has under an arrange ment . with the foreign company acquired from the foreign company all the assets, including the said property, relating to any industrial or com mercial or other business undertaking of the foreign com!Jany in the R~public."; and
 
 42\. No.l163 GOVERNMENT GAZETTE EXTRAORDINARY, 3ollt JUNE, 1965 section 3 of Act 4S of 1955, as amended by section 2 of Act 65 of 1960 and section 8 of Act 77 of 1964.
 

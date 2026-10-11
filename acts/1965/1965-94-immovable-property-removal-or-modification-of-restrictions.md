@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/immovable-property-removal-or-modification-restrictions-act-7-jul-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-94-1965.pdf"
 gazette: "G 1171"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -34,9 +35,7 @@ BE IT ENACTED by the State President, the Senate and ·the · House of Assembly 
 
 3\. (1) If the court to which application is made under this Act, is satis,fied-
 
-(a) that the shares which any of the beneficiaries in being at the time of the making of such application individu ally hold in the immovable property concerned are so small that they cannot be . beneficially occupied or enjoyed; or (b) that no beneficial use can be made of the immovable property concerned by the beneficiaries in being owing to there being a prohibition in the will or other . ·instrument· against the subdivision of the property; or • Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-,· I . ,
+(a) that the shares which any of the beneficiaries in being at the time of the making of such application individu ally hold in the immovable property concerned are so small that they cannot be . beneficially occupied or enjoyed; or (b) that no beneficial use can be made of the immovable property concerned by the beneficiaries in being owing to there being a prohibition in the will or other . ·instrument· against the subdivision of the property; or • ,· I . ,
 
 (c) that since the taking effect of the will or other instrument ' · imposing any restriction upon the immovable property concerned circumstances materially affecting the .1 value of the property have arisen which in the opinion of the court were not contemplated or foreseen by the person who made and executed the will or instrument;.
 

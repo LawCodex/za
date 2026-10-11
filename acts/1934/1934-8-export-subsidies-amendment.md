@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/export-subsidies-amendment-act-29-mar-1938-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act8of1934.pdf"
 gazette: "G 2183"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -34,4 +35,4 @@ Shorl title .
 
 (3) If before the twenty-second day of February, 1934, any person issued a summons in a court of law against the Minister as defined in the original Act for the recovery of any sum of money alleged to be due to that person under the said section siJ: as an export subsidy, his claim as set forth in the said summons shall be dealt with as if this Act had not been passed.
 
-5\. This Act shall be known as the Export Subsidies Amend ment Act, 1934, and shall come into operation upon a date to be fixed by the Governor-G eneral by proclamation in the Gazette, Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+5\. This Act shall be known as the Export Subsidies Amend ment Act, 1934, and shall come into operation upon a date to be fixed by the Governor-G eneral by proclamation in the Gazette,

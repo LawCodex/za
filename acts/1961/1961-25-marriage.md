@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/marriage-act-21-apr-1961-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-25-1961.pdf"
 gazette: "G 6670"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -58,9 +59,7 @@ the Senate and the House of Assembly of the Union of South Africa, as follows:-
 
 6\. (I) Whenever any person has acted as a marriage officer during any period or within any area in respect of which he was not a marriage officer under this Act or any prior law, and the Minister or any officer in the public service authorized thereto by the Minister is satisfied that such person did so under the bona fide belief that he was a marriage officer during that period or within that area, he may direct in writing that such person shall for all purposes be deemed to have been a marriage officer during such period or within such area, duly designated as such under this Act or such law, as the case may be.
 
-/ Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-52 UNION GAZETTE EXTRAORDINARY, 2lsr APRIL, 1961.
+/ 52 UNION GAZETTE EXTRAORDINARY, 2lsr APRIL, 1961.
 
 Effect of designation of certain ministers of religion as marriage officers.
 

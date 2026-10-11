@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/boxing-and-wrestling-control-act-22-may-2015-1500"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-39-1954_1.pdf"
 gazette: "G 5296"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,7 +51,7 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 (b) four shall represent-
 
-(i) in respect of the first appointment of members to the board, one each the respective bodies (here inaner referred to as the old provincial boards) to whom a written authority was granted under section three of the Boxing and Wrestling Act, 1923 (Act No. 5 of 1923), to act as a board of control of boxing and wrestling within a province of lhe Union; and Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+(i) in respect of the first appointment of members to the board, one each the respective bodies (here inaner referred to as the old provincial boards) to whom a written authority was granted under section three of the Boxing and Wrestling Act, 1923 (Act No. 5 of 1923), to act as a board of control of boxing and wrestling within a province of lhe Union; and as the other language is printed on even numbered pages.
 
 UNION GAZEITE EXTRAORDINARY, 18TH JUNE, 1954. 25
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/commissions-act-28-may-2015-1055"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-8-1947.pdf"
 gazette: "G 3800"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,9 +39,7 @@ z. A commission may sit at any place in the Union or the · mandated territory o
 
 5\. Any person who wilfully interrupts the proceedings of a commission or who wilfully hinders or obstructs a commission in the performance of its functions shall be guilty of an offence and liable on conviction to a fine not exceeding fifty pounds or to imprisonment for a period not exceeding six months or to both such fine and imprisonment.
 
-6\. (1) Any person summoned to attend and give evidence or to produce any book, document or object before a commission who, without sufficient cause (the onus of proof whereof shall rest upon him) fails to attend at the time and place specified in the summons, or to remain in attendance until the con clusion. of the enquiry or until he is excused by the chairman of the commission from further attend ance, or having attend ed, Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-iv UNION~GAZETTE EXTRAORDINARY, IB:rn APRIL, 1947.
+6\. (1) Any person summoned to attend and give evidence or to produce any book, document or object before a commission who, without sufficient cause (the onus of proof whereof shall rest upon him) fails to attend at the time and place specified in the summons, or to remain in attendance until the con clusion. of the enquiry or until he is excused by the chairman of the commission from further attend ance, or having attend ed, iv UNION~GAZETTE EXTRAORDINARY, IB:rn APRIL, 1947.
 
 refuses to be sworn or to make affirmation as a witness after he has been required by the chairman of the commission to do so or, having been sworn or having made affirmation, fails to answer fully and satisfactorily any question lawfully put to him, or fails to produce any book, document or object in his possession or custody or under his control, which he has been summoned to produce, shall be guilty of an offence and liable on conviction to a fine not exceeding fifty pounds or to imprisonment for a period not exceeding six months, or to both such fine and imprisonment. '
 

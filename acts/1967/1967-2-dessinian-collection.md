@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/dessinian-collection-act-2-1967-17-feb-1967"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-2-1967.pdf"
 gazette: "G 1664"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -33,5 +34,3 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 (4) Nothing in this Act contained shall be construed as authorizing the said consistory or its committee to interfere in any way with the management of the said library or the appli cation of its funds.
 
 RepealofAct 2. The South Mrican Public Library Act, 1893 (Cape), 33 of 1893 (Cape). is hereby repealed. Short title. 3. This Act shall be called the Dessinian Collection Act, 1967.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

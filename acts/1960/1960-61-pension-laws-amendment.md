@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/pension-laws-amendment-act-30-apr-2015-1015"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-61-1960.pdf"
 gazette: "G 6462"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -43,8 +44,6 @@ Number of com pleted years of pensionable service.
 (i) in the case of a female member who immediately prior to the date of commencement of this Act was a contributor to the old fund or who was appointed to a post in the public service with effect from a date prior to such commencement and who is retired in terms of sub-section (2) or (3) of section twenty·six or is discharged on account ofill-health occasioned without her own default. the gratuity shall be calculated at the rate of five and seven-tenths per cent. of such average in respect of each year of pensionable service;
 
 (ii) in the case of a member who immediately prior to the date of commencement of this Act was a contributor to the old fund or who was appointed to a post in the public·service with effect from a date prior to such commencement and who is retired in terms of sub-section (5) of section twenty-six, the gratuity shall be calculated at a percentage of such average in respect of each year of pensionable service, according to the following scale:
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 UNION GAZETIE EXTRAORDINARY, 1ST JUNE, 1%0.
 

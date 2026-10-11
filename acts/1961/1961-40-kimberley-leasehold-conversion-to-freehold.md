@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/kimberley-leasehold-conversion-freehold-act-30-may-1961-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-40-1961.pdf"
 gazette: "G 6700"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -54,9 +55,7 @@ and (b) under takes to cede such lease or licence to the creditor in respect of 
 
 (viii) "Minister" means the Minister of Lands; (vii)
 
-(ix) "owner", in relation to an erf, means any person · (including the State) who and whose successors in title are under a lease or licence registered in the office of the town clerk entitled to occupy such erf and includes- ( a) any sheriff, deputy-sheriff, messenger of the court, trustee, executor, liquidator , curator, admini strator or other person lawfully entitled or re quired to dispose of the rights under such lease or licence; and Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-4 . UNION GAZETTE EXTRAORDINARY, 30TH MAY, 1961.
+(ix) "owner", in relation to an erf, means any person · (including the State) who and whose successors in title are under a lease or licence registered in the office of the town clerk entitled to occupy such erf and includes- ( a) any sheriff, deputy-sheriff, messenger of the court, trustee, executor, liquidator , curator, admini strator or other person lawfully entitled or re quired to dispose of the rights under such lease or licence; and 4 . UNION GAZETTE EXTRAORDINARY, 30TH MAY, 1961.
 
 Exclusion of certain erven from certain township plans.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/black-laws-amendment-act-22-may-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-42-1964.pdf"
 gazette: "G 801"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -42,9 +43,7 @@ BE IT ENACTED by the State President, the Senate and · the House of Assembly of
 
 (a) a Bantu recruited for employment on, or employed or working on,. any mine or.
 
-works; and (b) a Bantu recruited for employment or em ployed in any occupation or any area or under conditions which the Minister may by notice in the Gazette declare to be an occupation in which or an area in which or conditions under which a Bantu so Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-GOVERNMENT GAZETIE EXTRAORDINARY, 22ND MAY, 1964 S recruited for employment or employed shall be a Bantu labourer for the purposes of this Act provided at least three months' notice of his intention to publish such a notice has been given by the Minister by notice in the Gazette;
+works; and (b) a Bantu recruited for employment or em ployed in any occupation or any area or under conditions which the Minister may by notice in the Gazette declare to be an occupation in which or an area in which or conditions under which a Bantu so GOVERNMENT GAZETIE EXTRAORDINARY, 22ND MAY, 1964 S recruited for employment or employed shall be a Bantu labourer for the purposes of this Act provided at least three months' notice of his intention to publish such a notice has been given by the Minister by notice in the Gazette;
 
 'chief Bantu affairs commissioner' shall include an assistant chief Bantu affairs commissioner;";
 

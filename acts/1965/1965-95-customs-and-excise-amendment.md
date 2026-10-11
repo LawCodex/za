@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/customs-and-excise-amendment-act-7-jul-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-95-1965.pdf"
 gazette: "G 1172"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -68,9 +69,6 @@ any beverages produced from excisable spirits in
 pursuance of any permission granted under the  
 provisions of sub-section (2) of section thirty-one,  
 being goods or beverages of a class or kind ap-  
-Please note that most Acts are published in English and another South African official language. Currently we only  
-have capacity to publish the English versions. This means that this document will only contain even numbered  
-pages as the other language is printed on uneven numbered pages.  
 Substitution  
 of section 24  
 of Act 91  

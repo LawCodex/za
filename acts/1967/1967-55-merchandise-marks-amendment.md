@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/merchandise-marks-amendment-act-10-may-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-55-1967.pdf"
 gazette: "G 1732"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -45,5 +46,3 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 ':Applica- 21bis. This Act and any amendment thereof ~~tor which may be made from time to time shaH apply South-west also in the Territory, including the Eastern Caprivi Africa. Zipfel referred to in section 3 of the South-West Africa Affairs Amendment Act, 1951 (Act No. 55 of 1951}, and in relation to all persons in that portion of the Territory known as the 'Rehoboth Gebiet' and defined in the First Schedule to Proclamation No. 28 of 1923 of the Territory.".
 
 4\. This Act shall be called the Merchandise Marks Amend ment Act, 1967.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

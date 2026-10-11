@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/magistrates-courts-amendment-act-5-may-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-48-1965.pdf"
 gazette: "G 1102"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -34,7 +35,7 @@ To amend the Magistrates' Courts Act, 1944.
 
 or, if delegated by the Minister, the Secretary· or Deputy Secretary for Justice or an Under-Secretary for Justice or the · Administrative Control Officer or first administrative officer in the staff branch of the Department of Justice may appoint any other com petent officer of the public service or any competent retired officer of the public service to act in the place of the absent or incapacitated magistrate, additional magistrate or assistant magistrate, as the case may be, during such absence or incapacity . or to act in the vacant office until the vacancy is filled: Provided that no person shall be appointed as an acting magistrate of a regional division unless he has satisfied all the requirements for the degree referred to in paragraph (b) of sub-section (1) ·or has passed an examination referred to in that paragraph: Provided further that when any such vacancy has · remained unfilled for a continuous period exceeding six months the fact shall be reported to the Public Service Commission.".
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 14 No. 1102 GOVERNMENT GAZETIE EXTRAORDINARY, 5TH MAY, 1965 Insertion of section 9bis in Act 32 of 1944.
+14 No. 1102 GOVERNMENT GAZETIE EXTRAORDINARY, 5TH MAY, 1965 Insertion of section 9bis in Act 32 of 1944.
 
 Amendment of - section 48 of Act 32 of 1944.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/industrial-development-amendment-act-14-may-2015-0741"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-45-1966_0.pdf"
 gazette: "G 1576"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

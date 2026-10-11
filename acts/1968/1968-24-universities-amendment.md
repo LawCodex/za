@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/universities-amendment-act-29-apr-2015-0856"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-24-1968.pdf"
 gazette: "G 2023"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,7 +39,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 (c) the Department of Higher Education, the Department of Bantu Education, the Depart ment of Coloured Affairs, the Department of Indian Affairs, the Education Department of each Province and the Education Department of the territory of South-West Africa; and · (d) schools in the Republic and in the territory of South-West Mrica preparing candidates for the said matriculation examination or an equivalent examination recognized by the Matriculation Board, appointed by the Minister from among the principals of such schools in each case on the recommendation of the head of the Depart ment concerned or of any body of persons that, in the opinion of the Minister, is sufficiently representative of principals of private schools.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. section 22 of Act 61 of 1955, as amended by section 6 of Act 43 of 1965.
+section 22 of Act 61 of 1955, as amended by section 6 of Act 43 of 1965.
 
 (4) The number of representatives appointed under each paragraph of subsection (3), their period of office and the manner of their appointment shall be prescribed by joint statute: Provided that so many representatives shall be appointed under subsection (3) (a) as will exceed the total number of all other representatives appointed.
 

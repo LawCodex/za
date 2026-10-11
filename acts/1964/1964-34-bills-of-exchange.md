@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/bills-exchange-act-15-may-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-34-1964.pdf"
 gazette: "G 793"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -44,9 +45,7 @@ To consolidate and amend the laws relating to bills or exchange, cheques and pro
 
 BILLS OF EXCHANGE-FORM AND INTERPRETATION.
 
-2\. (1) A bill of exchange is an unconditional order in writing, Definition of addressed by one person to another, signed by the person and require: giving it, requiring the person to whom it is addressed to pay ments for bill of on demand, or at a fixed or determinable future time, a sum exchange. certain in money to a specified person or his order, or to bearer. Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-GOVERNMENT GAZETIE EXTRAORDINARY, 15m MAY, 1964 II
+2\. (1) A bill of exchange is an unconditional order in writing, Definition of addressed by one person to another, signed by the person and require: giving it, requiring the person to whom it is addressed to pay ments for bill of on demand, or at a fixed or determinable future time, a sum exchange. certain in money to a specified person or his order, or to bearer. GOVERNMENT GAZETIE EXTRAORDINARY, 15m MAY, 1964 II
 
 (2) An instrument which does not comply with the require ments specified in sub-section (I) or which orders any act to be done in addition to the payment of money, is not a bill.
 

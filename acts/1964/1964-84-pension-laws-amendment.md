@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/pension-laws-amendment-act-7-jul-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-84-1964.pdf"
 gazette: "G 849"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -35,8 +36,6 @@ z. The following section is hereby inserted in the War Jnse.rtion of . . A 1942 
 "Grant 41bis. Any person who is in receipt of a supplemenor bonus to tary pension under the provisions of section nine, persons in sub-section (3) of section twell·e or section eighteen receipt of supple- may, v.ith effect from the first day of April, 1964, be mentary paid a bonus not exceedingpensions. 1
 
 (a) in the case of a European vo unteer or the widow of a European volunteer, forty-five per cent of such pension:
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages
 
 (b) in the case of a non-European volunteer (other than a Bantu volunteer) or the widow of such a non-European volunteer, twenty-two and one half per cent of such pension;
 

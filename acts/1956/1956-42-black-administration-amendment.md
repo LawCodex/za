@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/black-administration-amendment-act-42-1956-01-jun-1956"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-42-1956.pdf"
 gazette: "G 5689"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -47,5 +48,3 @@ given, or having been given,";
 "'chief' in relation to a native tribe, includes a paramount section 9 of chief and a sub-chief;". Act 9 or 1929, section 3 of Act 9 of 1939, section I o or Act21 ofl943 and scetion 17 of Act 67 of 1952.
 
 5\. This Act shall be called the Native Administration Amend- Short title. ment Act, 1956.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

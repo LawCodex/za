@@ -10,13 +10,14 @@ status: unknown
 source: "https://www.gov.za/documents/acts/payment-members-parliament-amendment-act-49-1968-29-may-1968"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-49-1968_1.pdf"
 gazette: "G 2084"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
 
 # Payment of Members of Parliament Amendment Act 49 of 1968
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+as the other language is printed on even numbered pages.
 
 EXTRAORDINARY REPUBLIC OF SOUTH GOVER~ENT STAATSKOERANT VAN DIE REPUBLIEK VAN Registered at the Post Office as a Newspaper As·'n Price tOe Prys Overseas 15c POST FREE-POSVRY CAPE TOWN, 29th Vol. 35.] [No. 2084.
 

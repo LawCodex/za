@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/income-tax-act-7-jul-1961-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-80-1961.pdf"
 gazette: "G 37"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -43,8 +44,6 @@ Rates of Tax in Taxable Income. Respect of Married Persons.
 Where the taxable incomedoes not exceed R600 · . • 6 per cent. of each Rl of taxable in come;
 
 exceeds R600. but does not exceed Rl.OOO R36 plus 7 per cent. of the amount by which the taxable income exceeds R600;
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 134 GOVERNMENT GAZBITB EXTRAORDINARY, 7nt 1ULY, 1961 Rates of Tax in Taxable Income. Respect of Married Persons.
 

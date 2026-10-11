@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/unemployment-insurance-amendment-act-27-1967-15-mar-1967"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-27-1967.pdf"
 gazette: "G 1683"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -30,4 +31,4 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 2\. Schedule 1 to the principal Act is hereby amended by the substitution in Group XII for the expression "R2,860" of the expression "R3,120".
 
-3\. This Act shall be called the Unemployment Insurance Amendment Act, 1967, and shall come into operation on a date to be fixed by the State President by proclamation in the Gazette. Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+3\. This Act shall be called the Unemployment Insurance Amendment Act, 1967, and shall come into operation on a date to be fixed by the State President by proclamation in the Gazette.

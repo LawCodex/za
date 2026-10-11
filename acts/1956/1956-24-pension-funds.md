@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/pension-funds-act-22-may-2015-1349"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-24-1956_0.pdf"
 gazette: "G 5679"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -56,7 +57,9 @@ TATION OF TERMS.
 
 (x) "pension fund organization" means-
 
-(a) any association of persons engaged in any occupa tion established with the object of providing benefits for members or former members of such association upon their retirement from such occupation, or for the dependants of such members or former members upon the death of such members or former members; or Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages. UNION GAZETTE EXTRAORDINARY, Jim MAY, 19S6
+(a) any association of persons engaged in any occupa tion established with the object of providing benefits for members or former members of such association upon their retirement from such occupation, or for the dependants of such members or former members upon the death of such members or former members; or as the other language is printed on even numbered pages.
+
+UNION GAZETTE EXTRAORDINARY, Jim MAY, 19S6
 
 (b) any business carried on under a scheme or arrange ment established with the object of providing benefits for employees or former employees of any employer upon their retirement on account of age or ill-health, or for dependants of employees or former employees of any such employer upon the death of such employees or former employees;
 

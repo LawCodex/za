@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/united-municipal-executive-pensions-act-12-1958-21-feb-1958"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-12-1958.pdf"
 gazette: "G 6020"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -35,5 +36,3 @@ the Senate and the House of Assembly of the Union of South Africa, as follows:-
 3\. Any prior service of such person, within or outside the Prior service. Transvaal, with any other employer may, subject to such conditions, including conditions as to the payment of any sum ·or sums to the said fund, as tho Administrator acting as aforesaid may determine, be reckoned as service with the said Executive.
 
 4\. This Act shall be ealled the United Municipal Executive Short title. (Pensions) Act. 1958.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

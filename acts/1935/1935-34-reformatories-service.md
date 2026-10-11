@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/reformatories-service-act-8-may-1935-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act34of1935.pdf"
 gazette: "G 2271"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -33,8 +34,6 @@ Such pension and retirement benefits shall, in respect of every such person who,
 (4) The Minister of Education shaH, within one year after the commencement of this Act, cause to be framed a list of the subordinate officers, as so defined, who at such commence ment were employed at juvenile reformatories or juvenile adult reformatories , . and whose s~rvices he desires to retain per manen tly at juvenile reformatori es or juvenile adult re formatories.
 
 (5) Every subordinate officer as st!l defined, whose name is included in that Jist- may, within three m'onths after "he has been requir ed 'by written notice signed by an officer of the Education . Departm ent to exercise the option given him by this section, notify the Minister of Education in writing that he does not wish to serve permanently at juvenile reformatories or juvenil e a dult reform atories.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 xx UNION GaZETTE EXTRAORDINARY, -8TH MAY, 1935.
 

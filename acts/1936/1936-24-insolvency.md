@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/insolvency-act-24-jun-1936-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act24of1936s.pdf"
 gazette: "G 2365"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -30,9 +31,7 @@ BE IT· ENACTED bythe King'sMost Excellent M~jesty, the Senate and the House of 
 
 " disposition " means any transfer or abandonment of rights to property and includes a sale, lease, mortgage, pledge, delivery, payment, release, compromise, donation or any contract therefor, but does not include a disposition in compliance with an order of the Court;
 
-" free residue "' in relation to an insolvent estate, means . •that portion of the estate which is not subject to any right of preference by reason of any special mortgage, legal hypothec, pledge or right of retep.tion : Provided that for the purpose . of this definition. the expression . " special mortgage " includes a notarial bond passed .and registered in terms of section one of the Notarial Bonds (Natal) Act, 1932 (Act No. 18 of 1932) but does not include any other notarial bond which was executed after the first day of October; 1926, and Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-viii UNION GAZETTE EXTRAORDINARY, 24TH JUNE, 1936.
+" free residue "' in relation to an insolvent estate, means . •that portion of the estate which is not subject to any right of preference by reason of any special mortgage, legal hypothec, pledge or right of retep.tion : Provided that for the purpose . of this definition. the expression . " special mortgage " includes a notarial bond passed .and registered in terms of section one of the Notarial Bonds (Natal) Act, 1932 (Act No. 18 of 1932) but does not include any other notarial bond which was executed after the first day of October; 1926, and viii UNION GAZETTE EXTRAORDINARY, 24TH JUNE, 1936.
 
 Petition for acceptance of surrender of estate.
 

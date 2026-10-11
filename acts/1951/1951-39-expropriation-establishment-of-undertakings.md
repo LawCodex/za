@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/expropriation-establishment-undertakings-act-12-may-2015-0849"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-39-1951.pdf"
 gazette: "G 4627"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -42,9 +43,7 @@ BE IT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 
 (3) Before granting his approval under sub-section {1) the Minister shall, at the expense of the applicant, either- ( a) cause to be served by post upon the registered owner of any land to which the application relates and if such owner is not the local authority, also upon the local authority within whose area of jurisdiction such land is situate, a notice specifying the extent of the proposed expropriation of such land in terms of the application;
 
-or (b) cause to be published in the Gazette and in a newspaper · circulating in the district in which the land concerned is situate a notice specifying a place within the district where a copy of the application and a plan showing the route of the proposed pipe line, railway branch line or railway siding may be inspected, and by such notice invite the owner of any such land and such local authority (if any) to lodge with the Minister within a period specified therein (which shall not be less than ten days Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-\- 4 UNION GAZETTE EXTRAORDINARY, 8TH JUNE, 1951.
+or (b) cause to be published in the Gazette and in a newspaper · circulating in the district in which the land concerned is situate a notice specifying a place within the district where a copy of the application and a plan showing the route of the proposed pipe line, railway branch line or railway siding may be inspected, and by such notice invite the owner of any such land and such local authority (if any) to lodge with the Minister within a period specified therein (which shall not be less than ten days - 4 UNION GAZETTE EXTRAORDINARY, 8TH JUNE, 1951.
 
 Application of laws relating to expropriation.
 

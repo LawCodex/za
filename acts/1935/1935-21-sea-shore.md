@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/sea-shore-act-10-apr-2015-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act21of1935.pdf"
 gazette: "G 2263"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -52,7 +53,7 @@ Letting of sett-shorc 4. (1) The Minister may let for periods not exceeding one 
 
 (d) _ the training of horses, the holding of races (including motor car and motor cycle races) and the p1:ovision of places for rectea.tiou, amusement OJ! displa-y ;
 
-(e) th.e construction. of tempot~!Y jetti es a.JJ.d l!J.ndini- ~liaioll; · Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. lxii UNION GAZETTE EXTRAORDINARY, lOTll APRIL, 1935.
+(e) th.e construction. of tempot~!Y jetti es a.JJ.d l!J.ndini- ~liaioll; · lxii UNION GAZETTE EXTRAORDINARY, lOTll APRIL, 1935.
 
 (/) the erection of temporary fish-curing sheds or any other temporary structures required in connection with the fishing industry;
 

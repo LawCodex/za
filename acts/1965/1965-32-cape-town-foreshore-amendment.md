@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/cape-town-foreshore-amendment-act-7-apr-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-32-1965.pdf"
 gazette: "G 1079"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -31,5 +32,3 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 {2) Sub-section(!) shall be deemed to have come into opera tion on the first day of August, 1950.
 
 2\. This Act shall be called the Cape Town Foreshore Amend ment Act, 1965.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

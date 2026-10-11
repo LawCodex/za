@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/land-bank-amendment-act-5-may-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-46-1965.pdf"
 gazette: "G 1102"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -42,7 +43,7 @@ l. Section four· of the Land Bank Act, 1944 (hereinafter referred to as the pri
 
 .. (2) The board may grant to any member leave of absence from meetings of the board- (~) for any number of days in. respect of which it is satisfied that such member was or will be pre vented by the business of the bank . or of any board, association, organization or commission to which he has been appointed by the Governor General or any Minister of State or the Adminis trator of any province, from attending meetings of the board;
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. section J3 of Act 13 of 1944, as inserted by section 2 of Act 60 of 1957.
+section J3 of Act 13 of 1944, as inserted by section 2 of Act 60 of 1957.
 
 section 21 of Act 13 of 1944, as amended by section 6 of Act 47 of 1959, section 2 of Act 35 of 1961 and section 1 of Act 14 of 1964.
 

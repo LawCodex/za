@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/van-wyk%E2%80%99s-vlei-settlement-local-board-management-act-3-apr-1929-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act10of1929.pdf"
 gazette: "G 1772"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -53,8 +54,6 @@ The 4ecision of the majority of the board present at any meeting thereof shall b
 3\. (I) It shall be the function and duty of the board to control and maintain tho irrigation \Vorks constructed for the service of the settlement, to regulate the distribution of water therefrom and to control and manage tho settleme nt.
 
 (2) The board shall within the sett lemen t have and exercise- ( a) all such {unctions, powers, rights, duties and obli gt!-tions as are conferred on an irrigation board by the · Irrigation and Conservation of Waters Act, 191~ (Act No. 8 of 1!112) or any amendment thereof;
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 x UNION GAZETTE EXTRAORDINA RY, !.lln APRIL , 1929.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/industrial-development-amendment-act-8-jun-1951-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-40-1951.pdf"
 gazette: "G 4627"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -32,4 +33,4 @@ BE IT ENACTED by the King's Most Excellent Majesty the Senate and the House of A
 
 2\. This Act shall be called the Industrial Development Amendment Act, 1951.
 
-\* PRINTED IN THE UNION OF SOUTH AFRICA BY CAPE TIMES LIMITED, PAROW, C.P.-C67, Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+\* PRINTED IN THE UNION OF SOUTH AFRICA BY CAPE TIMES LIMITED, PAROW, C.P.-C67,

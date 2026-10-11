@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/police-amendment-act-12-may-2015-0843"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-43-1958.pdf"
 gazette: "G 6122"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,4 +39,4 @@ To amend tho Police Act, 1958.
 
 5\. This Act shall apply also in the territory of South-West Application or Africa, including that portion of the said territory known as Act to S~uth the "Rehoboth Gebiet .. and defined in the First Schedule to West Afnca. Proclamation No. 28 of 1923 of the said territory, and also that portion of the said territory known as the Eastern Caprivi Zipfel referred to in section three of the South-West Africa Affairs Amendment Act, 1951 (Act No. SS of 1951).
 
-6\. This Act shall be called the Police Amendment Act, 1958. Short title. Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
+6\. This Act shall be called the Police Amendment Act, 1958. Short title.

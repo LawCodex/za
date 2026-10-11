@@ -10,13 +10,14 @@ status: unknown
 source: "https://www.gov.za/documents/general-law-amendment-act-24-jun-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-80-1964.pdf"
 gazette: "G 829"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
 
 # General Law Amendment Act 80 of 1964
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. EXTRAORDINARY BUITENGEWONH THE REPUBLIC OF ~o"ern ment Staatshoerant VAN DIE REPUBLIEK
+EXTRAORDINARY BUITENGEWONH THE REPUBLIC OF ~o"ern ment Staatshoerant VAN DIE REPUBLIEK
 
 [Registered at the General Post OfBce as a Newspaper.] [Geregistrea' by Price 10c Overseas 1Sc Oorsee POST FREE-POSVRY CAPE TOWN. 24th VoL. Xll.]
 

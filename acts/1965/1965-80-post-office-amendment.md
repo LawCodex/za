@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/post-office-amendment-act-30-jun-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-80-1965.pdf"
 gazette: "G 1163"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -44,9 +45,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 "Right of 80. The Postmaster-General may for the purposes fg~~n~~~ct _of this Act enter upon any land, includin~ any street, Jines across road, footpath or land reserved for pubhc purposes, any lands, and any railway, and construct and maintain a etc. telegraph line or any work (including any call office cabinet) upon, under, over, along or across any land, street, road, footpath or waterway or any railway, and alter or remove the same, and may for that purpose attach wires, stays or any other kind of support to any building or other structure.'".
 
-5\. Section eighty-three of the principal Act is hereby amended by the substitution for sub-section (1) of the following subsection: · · ••(t) If in the opinion of the Postmaster-General it is necessary at any time subsequent to the construction Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-36 No.ll63 GOVERNMENT GAZETTE EXTRAORDINARY, 30m JUNE, 1965 Substitution of section I 07 of Act 44 of 1958.
+5\. Section eighty-three of the principal Act is hereby amended by the substitution for sub-section (1) of the following subsection: · · ••(t) If in the opinion of the Postmaster-General it is necessary at any time subsequent to the construction 36 No.ll63 GOVERNMENT GAZETTE EXTRAORDINARY, 30m JUNE, 1965 Substitution of section I 07 of Act 44 of 1958.
 
 Substitution of section 108 of Act 44 of 1958, as amended by section 2 of Act 50 of 1962.
 

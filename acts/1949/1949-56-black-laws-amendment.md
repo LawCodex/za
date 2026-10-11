@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/native-laws-amendment-act-28-may-2015-1050"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-56-1949.pdf"
 gazette: "G 4201"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -48,9 +49,7 @@ BE IT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 
 (a) a native recruited for employment on, or employed or working on, any mine or works;
 
-and (b) a native recruited for employment or em ployed in any occupation or any area or under conditions which the Minister may by notice in the Gazette declare to be an occupation in which or an area in which or conditions under Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-cviii UNION GAZETTE EXTRAORDINARY, 8TH JULY, 1949.
+and (b) a native recruited for employment or em ployed in any occupation or any area or under conditions which the Minister may by notice in the Gazette declare to be an occupation in which or an area in which or conditions under cviii UNION GAZETTE EXTRAORDINARY, 8TH JULY, 1949.
 
 section 4 of Act 15 of 1911.
 

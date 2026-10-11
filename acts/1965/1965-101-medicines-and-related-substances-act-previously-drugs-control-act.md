@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/drugs-control-act-7-jul-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-101-1965.pdf"
 gazette: "G 1171"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -48,9 +49,7 @@ and "advertise" has a corresponding meaning; (i) ·
 
 (viii) "drug" means any substance or mixture of substances used or purporting to be suitable for use or manu factured or sold for use in- ( a) the diagnosis, treatment, mitigation, modification · or prevention of disease, abnormal physical or mental state or the symptoms thereof in man; or (b) restoring, correcting or modifying any somatic or psychic or organic function in man; (xii) , ' (ix) "inspector" means a person appointed as such under section twenty-six; (xi)
 
-(x) "label", when used as a verb, means brand, mark · or otherwise designate or describe, and· when used as a noun, means any brand or mark or any written, · pictorial or other descriptive matter appearing on or attached to or packed with and referring to any article or the package containing any article; (v) Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-Establishment, powers and functions of Drugs Control Council.
+(x) "label", when used as a verb, means brand, mark · or otherwise designate or describe, and· when used as a noun, means any brand or mark or any written, · pictorial or other descriptive matter appearing on or attached to or packed with and referring to any article or the package containing any article; (v) Establishment, powers and functions of Drugs Control Council.
 
 Constitution of council.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/immorality-amendment-act-1-jun-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-68-1967.pdf"
 gazette: "G 1754"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -35,8 +36,6 @@ BE IT ENACTED by the State President, tbe Senate and the House of Assembly of th
 3\. Section 21 of the principal Act is hereby amended by the addition of the following subsection:
 
 "(4) Whenever in any prosecution for an offence under section 12A it is proved that the accused has performed any act or has done anything or has furnished any informa tion, which was calculated or likely to enable any male to communicate with or to establish the whereabouts of or to trace any female who the accused had reason to believe to be a prostitute, the accused shall be presumed to have performed such act or to have done such thing or to have furnished such information, as the case may be, with intent that such female be uulawfully carnally known by such male, unless the contrary is proved.".
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 14 No. 1754 Substitution of section 22 of Act 23 of 1957.
 

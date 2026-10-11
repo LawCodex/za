@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/mining-titles-registration-act-1-mar-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-16-1967.pdf"
 gazette: "G 1670"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -52,7 +53,7 @@ INTRODUCTION.
 
 (ii) is a company under judicial management or in liquidation, includes the judicial manager or liquidator thereof.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. in so far as the person so recognized or such judicial manager or liquidator is acting within the authority conferred on him by law; (v)
+in so far as the person so recognized or such judicial manager or liquidator is acting within the authority conferred on him by law; (v)
 
 (vii) "Master", in relation to any matter, means the Master, Deputy Master or Assistant Master of the Supreme Court havingjurisdiction in respect of that matter ; (vi)
 

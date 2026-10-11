@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/pension-laws-amendment-act-22-may-2015-1340"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-56-1956_1.pdf"
 gazette: "G 5699"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -40,7 +41,7 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 6\. Section twenty of the War Pensions Act, 1942, is hereby Amendment or amended by the addition at the end thereof of the following section 20 of Act paragraph: 44 o~ 1942, as subslatuted by
 
-"(c) There shall be p1id in respect of a child in respect section 19 or Act of whom an allowance is being paid in terms of para· 58 or 1946. Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+"(c) There shall be p1id in respect of a child in respect section 19 or Act of whom an allowance is being paid in terms of para· 58 or 1946. as the other language is printed on even numbered pages.
 
 UNION OAZBITS SXTRAORDINARV, ISTH JUNB, 1956. lJ graph (b), an educational grant at a rate not exceed· ing the rate specified in the Third Schedule, which corresponds to the volunteer's degree of pensionable disablement at the time of his death, to meet any tuition fees payable in respect of such child while attending any school, college, technical institute or university.".
 

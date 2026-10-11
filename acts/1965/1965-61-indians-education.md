@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/indians-education-act-26-may-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-61-1965.pdf"
 gazette: "G 1120"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,7 +51,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 (b) requires special education in order to facilitate his adaptation to the community; or (c) should not attend an ordinary class in an ordinary school, because such attendance may be harm ful to himself or to the other pupils in such class; (i)
 
-(x) "high school" means a school for the education of Indians up to such standard, not exceeding the tenth standard, as the Secretary may in any particular case determine; (xi) Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 66 No.ll20 GOVERNMENT GAZETTE EXTRAORDINARY, 26TH MAY,I965
+(x) "high school" means a school for the education of Indians up to such standard, not exceeding the tenth standard, as the Secretary may in any particular case determine; (xi) 66 No.ll20 GOVERNMENT GAZETTE EXTRAORDINARY, 26TH MAY,I965
 
 (xi) "home" means an institution in whlch handicapped children are accommodated and cared for and receive education; (xxviii)
 

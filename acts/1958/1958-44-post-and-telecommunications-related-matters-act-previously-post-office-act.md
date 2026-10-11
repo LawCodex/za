@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/post-office-act-12-may-2015-0845"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-44-1958.pdf"
 gazette: "G 6122"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -56,9 +57,7 @@ l. In this Act, unless the context otherwise indicates- Definitiotu.
 
 (xvi) "postage" means the amount chargeable for the transmission of articles by post; (xvi)
 
-(xvii) "postage stamp'" or "stamp" means any piece of paper or other substance or material having thereon the stamp, mark or impression of any die, plate or other instrument made or used under this Act or by any postal authority for the purpose of denoting any postage or other postal fee; (xxi) Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-UNION OAZEITB EXTRAORDINARY, 3RD OCTOBER, 19S8. ll
+(xvii) "postage stamp'" or "stamp" means any piece of paper or other substance or material having thereon the stamp, mark or impression of any die, plate or other instrument made or used under this Act or by any postal authority for the purpose of denoting any postage or other postal fee; (xxi) UNION OAZEITB EXTRAORDINARY, 3RD OCTOBER, 19S8. ll
 
 (xviii) "postal article" means any letter, post-card, reply post-card, letter-card, newspaper, book, packet, pat tern or sample packet or any parcel or other article · when in course of transmission by post, and includes a telegram when conveyed by post; (xxii)
 

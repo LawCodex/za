@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/transfer-duty-amendment-act-17-jul-1951-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-59-1951.pdf"
 gazette: "G 4658"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -29,5 +30,3 @@ BE IT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 2\. The amendment effected by section one shall be deemed to have come into operation on the twenty-second day of March, 1951, and shall apply in respect of any acquisition of property· or any renunciation of an interest in or restriction upon the use or disposal of property on or after that date.
 
 3\. This Act shall be called the Transfer Duty Amendment Act, 1951.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

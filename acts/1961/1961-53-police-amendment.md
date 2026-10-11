@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/police-amendment-act-53-1961-28-jun-1961"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-53-1961.pdf"
 gazette: "G 26"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -68,7 +69,7 @@ and (c) by the addition of the following sub-section:
 
 6\. Section seventeen of the principal Act is hereby amended by the substitution in sub-section (1) for the words "or an assistant commissioner or a deputy commissioner referred to in sub-section (2) of section four" of the words "or the Commanding Officer of the Police control area in which such member is serving or any other commissioned officer desig nated by the Commissioner''.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 24 ' GOVERNMENT GAZETTE EXTRAORDINARY. 28TH JUNE, 1961 Amendment of section 26 of Act 7 of 1958.
+24 ' GOVERNMENT GAZETTE EXTRAORDINARY. 28TH JUNE, 1961 Amendment of section 26 of Act 7 of 1958.
 
 Amendment of section 33 of Act 7 of 1958.
 

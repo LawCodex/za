@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/census-amendment-act-40-1968-19-apr-1968"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-40-1968_0.pdf"
 gazette: "G 2052"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

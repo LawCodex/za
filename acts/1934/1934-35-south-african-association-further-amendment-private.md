@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/south-african-association-further-amendment-private-act-5-jun-1934-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act35of1934.pdf"
 gazette: "G 2201"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -35,8 +36,6 @@ J )E IT THEREFORE ENACTED by the Kmg's Most ) Excellent !llajesty, the Senate an
 Area o£ business of the Asso· ciation.
 
 " 4. The said Association shall be entitled to carry on its business, and to establish, continue, maintain, carry on and discontinue agencies for the more convenient dispatch of such business, in the Union and in such other part or parts of Africa south of the Equator as may be determined by the shareholders at a meeting duly convened;
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 xu UNION GAZETTE EXTRAORDINARY, 5ra JUNE, 1934.
 

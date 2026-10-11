@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/orange-free-state-statute-law-revision-act-33-1936-24-jun-1936"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act33of1936.pdf"
 gazette: "G 2365"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -71,8 +72,6 @@ Sections one to eight inclusive ; in section nine all words from the word " aile
 " dat " where that word appears for the third time ; sections ten, eleven and twelve;
 
 in section thirteen the words '' zoo gewone als extra. " ; and section mteen.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 ccxxxiv UNION GAZETTE EXTRAORDINARY, 24TH JUNE, 1936.
 

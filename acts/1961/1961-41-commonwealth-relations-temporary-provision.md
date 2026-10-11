@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/commonwealth-relations-temporary-provision-act-30-may-1961-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-41-1961.pdf"
 gazette: "G 6700"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -31,5 +32,3 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 3\. This Act shall apply also in the territory of South-West Africa, including the Eastern Caprivi Zipfel referred to in section three of the South-West Africa Affairs Amendment Act, 1951 (Act No. 55 of 1951).
 
 4\. This Act shall be called the Commonwealth Relations (Temporary Provision) Act, 1961.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

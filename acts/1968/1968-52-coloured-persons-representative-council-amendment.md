@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/coloured-persons-representative-council-amendment-act-52-1968-12-jun-1968"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-52-1968_1.pdf"
 gazette: "G 2093"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/railways-and-harbours-service-and-superannuation-fund-acts-amendment-act-27-1930-30"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201905/act27of1930.pdf"
 gazette: "G 1875"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -41,8 +42,6 @@ Addition of uew 3. The following new seetion eleven A i8 hereby added to the se<
 ILL The service s of a servant; nuty be dispcn~ed with prior to the due date of his snpera.mH>ation if he i~ found iu manner prescribed to be incapabl~.
 
 by I'cason of severe bodily injury or permanent ill-health or phy sical disability of discl>arging the duties of Lis office or post , provided t.be Admini~ tration is satisfied on enquiry that such incapacita tion is permanent or will become permanent if the servant· continues to perform the duties of his office or post or nny other duties tho Administra tion may assign to him.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 l:orvi UN ION GAZETTE EXTRAORDINARY, 30TH MAY, 1930.
 

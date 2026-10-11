@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/diocesan-college-rondebosch-private-act-7-1942-17-mar-1942"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-7-1942.pdf"
 gazette: "G 3019"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -39,8 +40,6 @@ BE. IT 'THEREFORE ENACTED by .the King's Most Ex . cellent Majesty, the. Senate 
 1\. The third clause oi the trnst deed sliall ·be read as if the words " as heretofor e " ·had been · deleted therefrom and the w:ord~ "or a . layman who shal! ·hold a ·licence as reader from the said Bishop'', had 'been added at the end thereof .
 
 2.' This Act m~y be cit~d as t.he Diocesan College Il.onde bosch (Private) Act, 1942.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 UNIE BUI'l'ENGEWONE STAATSKOEBANT, 17 MAART 1942.
 

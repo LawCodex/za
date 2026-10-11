@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/general-law-amendment-act-25-jun-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-98-1965.pdf"
 gazette: "G 1162"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,9 +37,7 @@ sells any liquor under authority granted by the Minister to the said Board, and 
 
 (b) by the substitution for sub-section (3) of the following sub-section:
 
-"(3) The magistrate shall during the month of December of each year on such date as may be deter mined by him, consider and determine applications lodged with him in terms of sub-section (2) during the immediately preceding month of October, and if any application for the grant of a licence referred to in sub section (1) is lodged with the magistrate concerned in any other month, he may in his discretion, if he is satisfied that there are good and sufficient reasons for such application not having been lodged with him during the immediately preceding month of October Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-Amendment or section 69 of Act 30 of 1928, as amended by section 49 of Act 88 of 1963 and section 7 of Act of 1964.
+"(3) The magistrate shall during the month of December of each year on such date as may be deter mined by him, consider and determine applications lodged with him in terms of sub-section (2) during the immediately preceding month of October, and if any application for the grant of a licence referred to in sub section (1) is lodged with the magistrate concerned in any other month, he may in his discretion, if he is satisfied that there are good and sufficient reasons for such application not having been lodged with him during the immediately preceding month of October Amendment or section 69 of Act 30 of 1928, as amended by section 49 of Act 88 of 1963 and section 7 of Act of 1964.
 
 Amendment or section 84 of Act 30 of 1928, as amended by leCtion 66 of Act 88 of J 963.
 

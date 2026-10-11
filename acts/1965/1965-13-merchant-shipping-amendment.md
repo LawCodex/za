@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/merchant-shipping-amendment-act-17-mar-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-13-1965.pdf"
 gazette: "G 1060"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -43,8 +44,6 @@ BE IT ENACTED by the State President~ the Senate and the 0 House of Assembly of 
 (c) by the substitution for the definition of "construction regulations" in the said sub-section of the following definition:
 
 "'construction regulations' means the regulations made under paragraph (a) of sub-section (2) of section three hundred and fifty-six to give effect to the relative provisions of the safety Convention, or such regulations as applied under sub-section {3) of the said section;";
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 (d) by the substitution for paragraph (b) of the definition of "country to which the Load Line Convention applies" in the said sub-section of the following paragraph:
 

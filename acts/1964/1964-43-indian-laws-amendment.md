@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/indian-laws-amendment-act-22-may-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-43-1964.pdf"
 gazette: "G 807"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -37,5 +38,3 @@ To amend the Indians Relief Act, 1914, and the Indians La,·s . Amendment Act, 1
 "(7) Any marriage between an Indian male and an Indian female which purports to have been dissolved by order of any magistrate in the province of Natal in terms of section seventy-eight of the Indian Immigration Law, 1891 (Act No. 25 of 1891 of Natal), shall, except where such order has been reversed upon appeal to the Supreme Court, be deemed to have been correctly dissolved with effect from the date stated in such order.".
 
 4\. This Act shall be called the Indians Laws Amendment Short title. Act, 1964.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

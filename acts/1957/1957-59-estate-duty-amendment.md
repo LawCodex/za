@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/estate-duty-amendment-act-59-1957-26-jun-1957"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-59-1957.pdf"
 gazette: "G 5893"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

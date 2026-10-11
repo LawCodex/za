@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/wills-amendment-act-14-apr-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-41-1965.pdf"
 gazette: "G 1084"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -44,7 +45,7 @@ or (iii) of which the testator was, at the time of the execution of the will or 
 
 (e) not be invalid merely by reason of the form thereof, if it was executed on board a vessel or aircraft and such form complies with the law of the state or territory in which such vessel or aircraft was registered at the time of such execution, or with which it was otherwise most closely connected at that time. •
 
-(2) Any requirement of the law of any other titate or territory in terms of which a testator of a particular age or nationality or having any other personal qualification is to observe special for malities in the execution of a will, or a witness to Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 4 No. 1084 GOVERNMENT GAZETIB EXTRAORDINARY, 14th APRIL. 1965 a will is to possess certain qualifications, shall be construed as a requirement relating to form only.
+(2) Any requirement of the law of any other titate or territory in terms of which a testator of a particular age or nationality or having any other personal qualification is to observe special for malities in the execution of a will, or a witness to 4 No. 1084 GOVERNMENT GAZETIB EXTRAORDINARY, 14th APRIL. 1965 a will is to possess certain qualifications, shall be construed as a requirement relating to form only.
 
 (3) If there are in force in any state or territory two or more systems of law relating to the form of wills, the law to be applied for the purposes of this section shall be the law determined in accordance with any relevant rule in force in the state or territory in question or, if there is no such rule in force there in, the law with which the testator was most closely connected at the time of his death, if the matter is to be determined by reference to the circumstances prevailing at his death, or at the time of the execu tion of the will in any other case.
 

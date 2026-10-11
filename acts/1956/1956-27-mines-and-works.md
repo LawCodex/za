@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/mines-and-works-act-22-may-2015-1345"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-27-1956_1.pdf"
 gazette: "G 5676"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,7 +51,7 @@ to be used for generating, developing, receiving, storing, converting, transform
 
 (b) crushing, reducing, dressing, concentrating or smelting a mineral;
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+as the other language is printed on even numbered pages.
 
 (c) producing a product of co=ercial value, other than a clay or earthenware product or cement, from a mineral; or (If) extracting, concentrating or refining any con stituent of a mineral; (xiii)
 

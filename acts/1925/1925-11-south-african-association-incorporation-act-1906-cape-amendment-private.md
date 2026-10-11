@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/south-african-association-incorporation-act-1906-cape-amendment-private-act-27-may-1925"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act11of1925.pdf"
 gazette: "G 1477"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

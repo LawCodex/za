@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/general-law-amendment-act-28-may-2015-1048"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-54-1949.pdf"
 gazette: "G 4201"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -51,8 +52,6 @@ BE IT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 7\. (1) Notwithstanding anything to the contrary in any other law contained (but subject to the provisions of the law governing the public service) the Minister of Justice may appoint-
 
 (i) the sheriffs of the provinces of the Union, and deputy sheriffs wherever they may be required;
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 0 UNION GAZETTE EXTRAORI~HNARY, 8TH JULY, 1949.
 

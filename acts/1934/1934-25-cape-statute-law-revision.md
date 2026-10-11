@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/cape-statute-law-revision-act-19-may-1934-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act25of1934.pdf"
 gazette: "G 2196"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,9 +51,7 @@ so far as they have not already been repealed, are hereby repealed, with the exc
 
 (e) deprive any person of any of the benefits conferred upon him by any Indemnity Act repealed hereby.
 
-(2) Notwithstanding the repeal by this Act of any law whereby any Tertitory was annexed to the Colony of the Cape of Good Hope, !uch Territory shall remain part of the Province Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-Short title.
+(2) Notwithstanding the repeal by this Act of any law whereby any Tertitory was annexed to the Colony of the Cape of Good Hope, !uch Territory shall remain part of the Province Short title.
 
 of the Cape of Good Hope and notwithstanding the repeal of any law, all the provisions of the law in force in the said Pro· vince relative to the qualifications, disqualifications and registration of voters at elections of members of the House of Assembly and the Provincial Council of the said Province shall apply to every such Territory.
 

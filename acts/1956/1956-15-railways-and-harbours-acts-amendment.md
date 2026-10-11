@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-acts-amendment-act-22-may-2015-1351"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-15-1956_1.pdf"
 gazette: "G 5651"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -40,7 +41,7 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 (v) "widow annuitant" means the widow of a deceased annuitant to whom an annuity is payable in terms of-
 
-(a) section forty-nine of the Railways and Harbours Service Act, 1912 (Act No. 28 of 1912); or (b) sub-section (4) of section eleven bis of the Railways and Harbours Service Act, 1925 (Act No. 23 of 1925); or (c) section thirty-two or fifty quin of the Railways and Harbours Superannuation Fund Act, 1925 (Act No. 24 of 1925), and who is alive at the date of commencement of this Act. (v) Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+(a) section forty-nine of the Railways and Harbours Service Act, 1912 (Act No. 28 of 1912); or (b) sub-section (4) of section eleven bis of the Railways and Harbours Service Act, 1925 (Act No. 23 of 1925); or (c) section thirty-two or fifty quin of the Railways and Harbours Superannuation Fund Act, 1925 (Act No. 24 of 1925), and who is alive at the date of commencement of this Act. (v) as the other language is printed on even numbered pages.
 
 (2) Any other expression to which a meaning is assigned in section one of the Railways and Harbours Superannuation Fund Act, 1925 (Act No. 24 of 1925), shall, when used in this Act, bear the meaning so assigned to it.
 

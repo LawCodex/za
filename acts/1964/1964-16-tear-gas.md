@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/tear-gas-act-6-mar-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-16-1964.pdf"
 gazette: "G 738"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,9 +51,7 @@ Definitions.
 
 (b) is in possession of tear-gas or any article used or intended to be used for releasing tear-gas in contraven tion of the provisions of section three or, in the case of a person entitled to be in possession thereof by virtue of any permission granted . under that section, fails to observe any restriction or condition attached to such permission;
 
-(c) hinders, obstructs or delays any other person in the exercise of his powers under this Act, is guilty of an offence and liable on conviction- Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-GOVERNMENT GAZEITB EXTRAORDINARY. 6m MARCH. 1964
+(c) hinders, obstructs or delays any other person in the exercise of his powers under this Act, is guilty of an offence and liable on conviction- GOVERNMENT GAZEITB EXTRAORDINARY. 6m MARCH. 1964
 
 (i) in the case of an offence referred to in paragraph (a) or (b), to a fine not excecdin' eight hundred rand or in default of payment to lDlprisonment for a period not exceeding two years or to both such fine and such imprisonment or to such imprisonment without the option of a fine:
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/merchandise-marks-amendment-act-28-may-2015-1110"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-3-1946.pdf"
 gazette: "G 3622"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -29,5 +30,3 @@ To amend the Merchandise Marks Act, 1941.
 "(c) there sh.all be applied to them in a conspicuous manner and as specified in the notice, words stating clearly the materials of which they are composed and the percentages of such materials calculated either by weight or by volume as prescribed in the notice."
 
 2\. This Act shall be called the Merchandise Marks Amend ment Act, 1946.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

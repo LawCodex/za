@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/general-estate-and-orphan-chamber-act-1861-amendment-private-act-17-1931-02-jun-1931"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act17of1931.pdf"
 gazette: "G 1954"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -47,8 +48,6 @@ AND WHEREAS at a general meeting of.the shareholders of the Chamber specially co
 (2) The purposes and powers o£ the Chamber shall be- ( a) to administer all such property, estates, and affairs . as the Chamber may be appointed to administer, and to act as agent for any person and carry on a.nd manage all such business as the Chamber may be entrusted with; ·
 
 (b) to accept money on loan or deposit ~or such periods, at such rates of interest, and upon such terms and conditions as may be agreed: Provided that such money so accepted shall at no time in the aggregate exceed fifty per cent. of the total amount of the capital stock and other funds being the property of the Chamber, exclusive of the dividend protecting, contingent and . 55 . , pension protecting funds ;
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 Short title.
 

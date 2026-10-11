@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/admission-advocates-act-1-jul-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-74-1964.pdf"
 gazette: "G 839"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -60,7 +61,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 (c) that he is a South African citizen or that he has been lawfully admitted to the Republic for permanent residence therein and is ordinarily resident in the Republic;
 
-(d) in the case of any person who has at any time been admitted to practise as an attorney in any court in the Republic or elsewhere, that hts name has been removed from the roll of attorneys on his own appli· cation and that for a continuous period of not less than six months immediately before the date of his application to be so admitted he has in no way been associated or connected with the practice of, or acted directly or indirectly as. an attorney, notary or con veyancer in the Republic or elsewhere; and (e) in the case of a person who has at any time been a clerk or assistant, whether for remuneration or not, to any person practising as an attorney, notary or conveyancer in the Republic or elsewhere, that for a r.l)ntinuous period of not less than six months im- Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. mediately before the date of his application to be so admitted he has in no way been assoc1ated or connected with the practice of, or acted directly or indirectly as a clerk or assistant to an attorney, notary or conveyancer in the Republic or elsewhere.
+(d) in the case of any person who has at any time been admitted to practise as an attorney in any court in the Republic or elsewhere, that hts name has been removed from the roll of attorneys on his own appli· cation and that for a continuous period of not less than six months immediately before the date of his application to be so admitted he has in no way been associated or connected with the practice of, or acted directly or indirectly as. an attorney, notary or con veyancer in the Republic or elsewhere; and (e) in the case of a person who has at any time been a clerk or assistant, whether for remuneration or not, to any person practising as an attorney, notary or conveyancer in the Republic or elsewhere, that for a r.l)ntinuous period of not less than six months immediately before the date of his application to be so admitted he has in no way been assoc1ated or connected with the practice of, or acted directly or indirectly as a clerk or assistant to an attorney, notary or conveyancer in the Republic or elsewhere.
 
 (2) The following persons shall for the purposes of paragraph (b) of sub-section (1) be deemed to be duly qualified, namely:
 

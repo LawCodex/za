@@ -10,13 +10,14 @@ status: unknown
 source: "https://www.gov.za/documents/south-african-mutual-life-assurance-society-private-act-14-may-2015-0742"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-52-1966_0.pdf"
 gazette: "G 1576"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
 
 # South African Mutual Life Assurance Society (Private) Act 52 of 1966
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. EXTRAORDINARY BUITENGEWONE THE REPUBLIC OF ·SOUTH ~o"ernment Staatshoerant VAN DIE REPUBLIEK VAN SUID-AFRIKA
+EXTRAORDINARY BUITENGEWONE THE REPUBLIC OF ·SOUTH ~o"ernment Staatshoerant VAN DIE REPUBLIEK VAN SUID-AFRIKA
 
 [Registered at the General Post Office as a Newspaper.] [ Geregistreer by die Hoofposkantoor as 'n Nuusblad.] Price I Oc Prys Overseas POST FREE-POSVRY CAPE TOWN, 26TH VOL. 22.) KAAPSTAD, 26 DEPARTMENT OF THE PRIME MINISTER. DEPARTEMENT No. 1688.] [26th October, 1966. No. 1688.]
 

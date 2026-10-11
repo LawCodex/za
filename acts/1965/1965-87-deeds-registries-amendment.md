@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/deeds-registries-amendment-act-30-jun-1965-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-87-1965.pdf"
 gazette: "G 1163"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,7 +37,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 "(2) No person shall be appointed as registrar, deputy registrar or assistant registrar of deeds after the commencement of the Deeds Registries Amend ment Act, 19 57, unless he has passed the Public Service Law Examination or an examination deemed by the Public Service Commission to be eqnivalent thereto and has served in the administrative division of the public service in one or more deeds registries or in the deeds registry established by the Deeds Registry Proclamation, 1939 (Proclamation· No.
 
-37 of 1939), of the Administrator of South-West Africa, or in one or more deeds registries established . under this Act and in the lastmentioned deeds registry for a period of not less than seven years: Provided Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 144 No. 1163 GOVERNMENT GAZETIE EXTRAORDINARY, 30m JUNE, 1965 section 3 of Act 47 of 1937, as amended by section 14 of Act 50 of 1956, section 2 of Act 43 of 1957 and section 2 of Act 43 of 1962.
+37 of 1939), of the Administrator of South-West Africa, or in one or more deeds registries established . under this Act and in the lastmentioned deeds registry for a period of not less than seven years: Provided 144 No. 1163 GOVERNMENT GAZETIE EXTRAORDINARY, 30m JUNE, 1965 section 3 of Act 47 of 1937, as amended by section 14 of Act 50 of 1956, section 2 of Act 43 of 1957 and section 2 of Act 43 of 1962.
 
 that this sub-section shall not apply with reference to the appointment as registrar of deeds of any person who held office as registrar of deeds in terms of the said proclamation or as an assistant registrar of deeds at the commencement of the said Act or with reference to the appointment of the Rand townships registrar or assistant Rand townships registrar.".
 

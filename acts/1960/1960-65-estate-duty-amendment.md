@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/estate-duty-amendment-act-65-1960-01-jun-1960"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201504/act-65-1960.pdf"
 gazette: "G 6462"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -52,9 +53,7 @@ To amend the Estate Duty Act, 1955.
 
 (f) by the substitution for paragraph (d) of sub-section (3) of the following paragraph:
 
-"(d) property (being property not otherwise chargeable under this Act or the full value of which is not otherwise required to be taken into account in the determination of the dutiable amount of the Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-estate) of which the deceased was immediately prior to his death competent to dispose for his own benefit or for the benefit of his estate:•; and (g) by the insertion after sub-section (4) of the following sub-section:
+"(d) property (being property not otherwise chargeable under this Act or the full value of which is not otherwise required to be taken into account in the determination of the dutiable amount of the estate) of which the deceased was immediately prior to his death competent to dispose for his own benefit or for the benefit of his estate:•; and (g) by the insertion after sub-section (4) of the following sub-section:
 
 "(5) For purposes of paragraph (d) of sub-section (3)-
 

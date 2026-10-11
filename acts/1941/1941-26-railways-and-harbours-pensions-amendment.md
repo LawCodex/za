@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-pensions-amendment-act-5-may-1941-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-26-1941.pdf"
 gazette: "G 2904"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -41,8 +42,6 @@ and (b) the value of rations supplied to him by the Ad ministration free of char
 (a) was in the service of the Administration at any time after the commencement of this Act ; and (b) was in the service of the Administration during a continuous period of five years or longer or inter mittently during periods which amount in the aggre gate to a period of five years or longer, or was in the service of the Administration and in the service of an old Administration (whether intermi~tently or continuously) during periods which amount in the aggregate to a period of five years or longer ; and (c) was, after the commencement of this Act, retired from the service of the Administration because of his age or because of a reduction or reorganisation of the staff of the Administration or because of bodily injury occasioned without his own default or because of permanent ill health or physical disability in respect of which a railway medical officer has not certified that it was occasioned by the said person's own default ; and (d) on the date of such retirement is not a member ,of, or participant in, any pension or superannuation fund or scheme under any law and is not otherwise quali fied for a pension under any law; and (e) has never been eligible for membership of, or partici pation in, any such fund or scheme (except the pension scheme provided for in the Railways and Harbours Gratuity Act, 1928), or was refused admission to, or participation in, any such fund or scheme, although he was eligible for membership or participation, shall be entitled to an annuity or to, a gratuity, to be paid from revenue, in accordance with the following provisions of this Act.
 
 (2) Any person who was intermittently in the service of the Administration shall, for the purposes of paragraphs (b) and (c) of sub-section (1) be deemed to have been retired from that service because of a fact mentioned in the said paragraph (c) if, after the-termination of his last period of such service, he was not re-employed by the Administration because of any fact mentioned in that paragraph.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 viii Scale of annuities or gratuities.
 

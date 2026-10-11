@@ -9,6 +9,7 @@ version: "as enacted (Government Gazette text)"
 status: unknown
 source: "https://www.gov.za/documents/carriage-air-act-28-may-2015-1112"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-17-1946.pdf"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -42,8 +43,6 @@ To ci ve effect to a Convention for the unification of certain rulea relating to
 (i) issue a rule calling upon interested parties to join in the action within a specified period ;
 
 (ii) make such order as appears to the conrt to be just and equitable in view of the provisions. of the said Schedule limiting tho liability of a carrier and of nny proceedings which have been or nre likely to he commenced outside the Union in respect o£ the death of tho passenger in question.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 iv UNION GAZJ,;'J."fg EXTHAOIWL'>ARY, 13Tll MAY, IU~O.
 

@@ -10,7 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/rhodes%E2%80%99-will-groote-schuur-devolution-act-30-dec-1910-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act9of1910.pdf"
 gazette: "G 70"
-text_quality: "ocr-bilingual-columns"
+text_quality: "ocr-bilingual-columns (scanned Gazette, English column extracted automatically; OCR errors likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

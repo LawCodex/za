@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/income-tax-act-19-may-2015-1255"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-43-1955.pdf"
 gazette: "G 5494"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -34,7 +35,7 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 (ii) in the case of persons other than companies, for each pound of the taxable income not exceeding nine thousand three hundred pounds, eighteen pence increased by one one thousandth of a penny for each pound of such taxable income in excess of one pound, and for each pound of the taxable income over and above nine thousand three hundred pounds, thirty-seven pence: Provided that for a married person the rate for each pound of the taxable income not exceeding nine thousand three hundred pounds shall be fifteen pence increased by one one-thousandth of a penny for each pound of such taxable income in excess of one pound, and for each pound of the taxable income over and above nine thousand three hundred pounds, thirty four pence: Provided further that there shall be added to the amount of tax calculated in accordance with the preceding provisions of this item (including the foregoing proviso thereto), a sum equal to fifteen per centum of the net amount arrived at after deducting the rebates provided for in section thirteen of the principal Act from the amount of the tax so calculated;
 
-(b) in respect of so much of the taxable income as has been derived by any company from mining in the Union for gold (but with the exclusion of so much of the taxable income as the Commissioner determines to be attributable to the inclusion in the gross income of any amount referred to in paragraph (f) of the definition of "gross income" Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 28 UNION GAZETIE EXTRAORDINARY, 17TH JUNE, 1955.
+(b) in respect of so much of the taxable income as has been derived by any company from mining in the Union for gold (but with the exclusion of so much of the taxable income as the Commissioner determines to be attributable to the inclusion in the gross income of any amount referred to in paragraph (f) of the definition of "gross income" 28 UNION GAZETIE EXTRAORDINARY, 17TH JUNE, 1955.
 
 in section seven of the principal Act), on each pound of the taxable income a percentage deter mined in accordance with the formula:
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/merchandise-marks-act-17-apr-1941-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-17-1941.pdf"
 gazette: "G 2893"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -60,9 +61,7 @@ A err To make provision concerning the marking of mer chandise and of coverings 
 
 2\. (1) A person shall be deemed to apply a trade mark or trade description to goods who-
 
-(a) applies it to the goods themselves ; or (b) applies it to any covering, label or reel in or with which the goods are sold ; or Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-...
+(a) applies it to the goods themselves ; or (b) applies it to any covering, label or reel in or with which the goods are sold ; or ...
 
 xii UNION GAZETTE EXTRAORDINARY, 17TH APRIL, Hl!l.
 

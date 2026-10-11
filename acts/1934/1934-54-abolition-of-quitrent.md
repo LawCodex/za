@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/abolition-quitrent-act-54-1934-11-jun-1934"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act54of1934.pdf"
 gazette: "G 2204"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,9 +39,7 @@ of British Bechuanaland, including the terri tories formerly known as Stellaland
 
 (vi) any periodical payment m respect .of any land situate in the province of Natal, imposed by any condition or reservation in favour of the State contained in or attached to any deed of grant of any such land ;
 
-(vii) any, tax payable in respect of freehold farms, quitrent farms and burgher-right erven situate in the province of the Transvaal, in terms of article one hundred and ninetyfour of the Grondwet of the South African Repubhc, 1858, Volksraad Resolution dated the twenty-fifth day of October, 1866 (article 561), Volksra.ad Resolution dated the twenty-sixth day of November, 1868 (article 318), Volksraad Reso lution dated the twenty-seventh day of Novem ber, 1868 (article 319), Volksraad Resolutions dated the fifth day of June, 1869 (articles Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-\>.XXviii UNION GAZETTE EXTRAORDINARY, liTH JUNE, 1934.
+(vii) any, tax payable in respect of freehold farms, quitrent farms and burgher-right erven situate in the province of the Transvaal, in terms of article one hundred and ninetyfour of the Grondwet of the South African Repubhc, 1858, Volksraad Resolution dated the twenty-fifth day of October, 1866 (article 561), Volksra.ad Resolution dated the twenty-sixth day of November, 1868 (article 318), Volksraad Reso lution dated the twenty-seventh day of Novem ber, 1868 (article 319), Volksraad Resolutions dated the fifth day of June, 1869 (articles >.XXviii UNION GAZETTE EXTRAORDINARY, liTH JUNE, 1934.
 
 Abolition of quitrent.
 

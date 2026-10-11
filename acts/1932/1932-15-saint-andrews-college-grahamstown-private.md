@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/saint-andrew%E2%80%99s-college-grahamstown-private-act-19-may-1932-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act15of1932.pdf"
 gazette: "G 2037"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -40,9 +41,7 @@ substitution of 2. The eighteenth elause of the Trust Deed is hereby new clause 
 
 (i) a Clerk in Holy Orders of the . Ch.urch of England or of one of the Churches in Communion with the Chnroh of England who holds a licence from the ~ishop of the Diocese of Grahamstown, or (ii) a. layman who shall (a) make a. solemn declaration that he is a Communicant· of the Church of England or of one of the Churches jn Communion with the Church of England and (b) hold a licence as Reader from the said Bishop ".
 
-Power of Counctl 3. The Council may, by a majority of not less than two--thirds to a.mend Truat o£ the members present at a.ny meeting spooiatly'called for the D!!M. purpose, repeat, or SJ.!lend any provision of the Trnst Deed or add any provision thereto : Provided that- Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-UNION' GAZETTE EXTRAORDINARY, 19th .MAY, 1932.
+Power of Counctl 3. The Council may, by a majority of not less than two--thirds to a.mend Truat o£ the members present at a.ny meeting spooiatly'called for the D!!M. purpose, repeat, or SJ.!lend any provision of the Trnst Deed or add any provision thereto : Provided that- UNION' GAZETTE EXTRAORDINARY, 19th .MAY, 1932.
 
 Ioterpoota.tion of tetnul.
 

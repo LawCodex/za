@@ -203,7 +203,11 @@ def running_header_patterns(pages):
     return {l for l, n in c.items() if n >= k and len(l) < 160}
 
 
+GOVZA_NOTE = re.compile(r"Please\s+note\s+that\s+most\s+Acts\s+are\s+published.*?(uneven|odd)\s+numbered\s+pages\.?", re.S | re.I)
+
+
 def clean_lines(pages):
+    pages = [GOVZA_NOTE.sub("", p) for p in pages]
     rep = running_header_patterns(pages)
     out = []
     for p in pages:
@@ -472,6 +476,14 @@ def build(r, docs, outdir, used):
                     pages.append(p["text"])
     if not pages or sum(len(p) for p in pages) < 200:
         return None, "no-english-text"
+    alltext = "\n".join(pages)
+    noise = sum(alltext.count(c) for c in "·~•¦«»") / max(1, len(alltext))
+    if modes["split"] >= max(3, sum(modes.values()) // 3):
+        quality = "ocr-bilingual-columns (scanned Gazette, English column extracted automatically; OCR errors likely)"
+    elif noise > 0.001 or any(GOVZA_NOTE.search(p) for p in pages[:2]):
+        quality = "ocr (scanned Gazette; OCR errors and omissions likely)"
+    else:
+        quality = None
     lines = clean_lines(pages)
     # drop the Gazette cover/notice that precedes the Act itself
     for k, l in enumerate(lines[:80]):
@@ -498,7 +510,7 @@ def build(r, docs, outdir, used):
         "source": r["url"],
         "source_pdf": " ".join(d["url"] for d in docs),
         "gazette": next((m for m in r.get("meta", []) if re.match(r"^G\s*\d+", m)), None),
-        "text_quality": "ocr-bilingual-columns" if modes["split"] >= max(3, sum(modes.values()) // 3) else None,
+        "text_quality": quality,
         "licence": "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes",
         "retrieved": TODAY,
     }

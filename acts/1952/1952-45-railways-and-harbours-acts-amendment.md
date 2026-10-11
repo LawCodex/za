@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-acts-amendment-act-1-jun-2015-0748"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201506/act-45-1952_0.pdf"
 gazette: "G 4885"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---

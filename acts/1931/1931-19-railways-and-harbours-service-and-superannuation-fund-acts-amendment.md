@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/railways-and-harbours-service-and-superannuation-fund-acts-amendment-act-19-1931-02"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201905/act19of1931.pdf"
 gazette: "G 1954"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -41,8 +42,6 @@ To provide for the validation of (a) certain ad missions to the New Superannuati
 5\. Sub-section (2) of section thirteen of the principal Act is hereby deleted;, and the following new sub-section (2) sub stituted:-
 
 (2) A member shall continue to contribute to the New Fund in respect of any period regarded as leave of absence without pay, but in respect of any such period in excess of six days, shall have the option of electing, within ninety days after his return to duty, not to contribute and should he so elect he shall be entitled to a refund of his C<?ntributions in respect of the period in excess of six days and such period shall in that case not be reckoned in calculating his period of continuous employment. Con tributions for any period regarded as .leave of absence without pay shall he calculated and made in accordance with paragraph (a), (b), (c) or (d) of sub-section (2) of section eleven and shall be based on the member's pension able emoluments for the calendar month . immed iately precedi~g the commencement of the said leave. .
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 ., xviii UNION GAZETTE EXTRAORDINARY, 2ND JUNE, 1931.
 

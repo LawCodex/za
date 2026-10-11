@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/natal-advocates-and-attorneys-preservation-rights-act-27-1939-16-jun-1939"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-27-1939.pdf"
 gazette: "G 2649"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -23,5 +24,3 @@ retrieved: 2026-10-12
 Savings. : - 2:.'Nothing in this Act contained shall entitle any person whose name appears on the roll of attorneys to have his name placed upon the roll of advocates as long as his name remains on the roll .of attorneys or entitle any person ;whose name appears on the roll of advocates to have his name placed on the roll 9f attorneys as long alii his name remains on the roll of advocates. - ' : ' ' ' . .
 
 Short title and · 3. This Act shall be known as the Natal Advocates and coanmencement . Attorneys Preservation of Rights .Act,l939, and shall come into operation on the first day of January, 1940.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

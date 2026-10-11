@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/justices-peace-and-commissioners-oaths-amendment-act-8-mar-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-21-1967.pdf"
 gazette: "G 1677"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -48,9 +49,7 @@ and shall further have such other powers and per form such other duties as the M
 
 4\. Section I I of the principal Act is hereby amended- ( a) by the substitution for subsection (1) of the following subsection:
 
-"(1) Subject to the provisions of subsections (2) and (4). the laws specified in the Second Schedule are hereby repealed to the extent set out in the third column of that Schedule."; and (b) by the deletion of subsection (3). Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-220 No.l677 Substitution of First Schedule to Act 16 of 1963, as amended by section 44 of Act 80 of 1964.
+"(1) Subject to the provisions of subsections (2) and (4). the laws specified in the Second Schedule are hereby repealed to the extent set out in the third column of that Schedule."; and (b) by the deletion of subsection (3). 220 No.l677 Substitution of First Schedule to Act 16 of 1963, as amended by section 44 of Act 80 of 1964.
 
 Justices of the peace appointed for a ward deemed to be appointed for magisterial district in which ward is situated.
 

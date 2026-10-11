@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/estate-duty-act-19-may-2015-1254"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-45-1955.pdf"
 gazette: "G 5494"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -46,7 +47,7 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, the Senate and the House of
 
 (a) any fiduciary, usufructuary or other like interest in property (including a right to an annuity charged upon property) held by the deceased immediately prior to his death;
 
-(b) any right to an annuity (other than a right to an annuity charged upon any property) enjoyed by the deceased Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 60 UNION GAZETTE EXTRAORDINARY, 17m JUNE, 1955.
+(b) any right to an annuity (other than a right to an annuity charged upon any property) enjoyed by the deceased 60 UNION GAZETTE EXTRAORDINARY, 17m JUNE, 1955.
 
 immediately prior to his death which accrued to some other person on the death of the deceased, but does not include-
 

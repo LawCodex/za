@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/magistrates%E2%80%99-courts-amendment-act-17-feb-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-8-1967.pdf"
 gazette: "G 1664"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -40,9 +41,7 @@ BE IT ENACTED by the State President, the Senate and the House of Assembly of th
 
 (c) A magistrate of a regional division may also be the magistrate of a district.
 
-(2) (a) No person holding any appointment under subsection (I) shall perform the functions of a judicial officer in any magistrate's court, unless he has taken an oath or made an affirma- Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-Short title.
+(2) (a) No person holding any appointment under subsection (I) shall perform the functions of a judicial officer in any magistrate's court, unless he has taken an oath or made an affirma- Short title.
 
 tion subscribed by him, in the form set out below, namely- '!... ........................................................................................................ . (full name) do hereby swear/solemnly and sincerely affirm and declare that whenever I may be called upon to perform the functions of a judicial officer in any magistrate's court, I will administer justice to all persons alike without fear, favour or prejudice and in accordance with the law and customs of the Republic.'.
 

@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/herbert-ainsworth-settlers-trust-private-act-5-jun-1934-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act31of1934.pdf"
 gazette: "G 2201"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,9 +39,7 @@ AND WHEREAS the trustees referred to in the said will have paid over to the said
 
 " the South African Trustees ") all the moneys due to be paid to them in pursuance of Clause 7 of the said will :
 
-AND WHEREAS it is expedient that the powers of the South African trustees should be extended so that in addition to the powers coDferred upon them by Clause 7 of the said · will they should have power to increase the amount which may be Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-iv UNION GAZETTE EXTRAORDINARY, oTII JUNE, 1934.
+AND WHEREAS it is expedient that the powers of the South African trustees should be extended so that in addition to the powers coDferred upon them by Clause 7 of the said · will they should have power to increase the amount which may be iv UNION GAZETTE EXTRAORDINARY, oTII JUNE, 1934.
 
 Increased powers of South African trustees.
 

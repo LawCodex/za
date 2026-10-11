@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/revenue-laws-amendment-act-28-jun-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-94-1967.pdf"
 gazette: "G 1777"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -46,7 +47,7 @@ BE IT ENACTED by the State President, the Senate and toe House of Assembly of th
 
 in respect of the estate of any person who dies or died on or after the twenty-third day of March, 1967.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. Amendment of Item 10 of First Schedule to Act 59 of 1962.
+Amendment of Item 10 of First Schedule to Act 59 of 1962.
 
 Amendment of Item 18 of First Schedule to Act 59 of .
 

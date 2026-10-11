@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/marriage-amendment-act-28-feb-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-11-1964.pdf"
 gazette: "G 734"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -31,5 +32,3 @@ To amend the Marriage Act, 1961.
 2\. Sectionjifteen of the MarriageAct,1961, is hereby amended Am~dmcnt of by the insertion in sub-section (1) after the word "published .. sc:cuon IS of h . " h fir . f th d .. h' dul Act 25 of 1961, w ere 1t occurs .or t e st tlme o e war s or 1s y authorized representative".
 
 3, This Act shall be called the Marriage Amendment Act, Short title. 1964.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

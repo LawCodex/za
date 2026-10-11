@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/black-laws-amendment-act-19-may-2015-1251"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-62-1955.pdf"
 gazette: "G 5512"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -66,9 +67,6 @@ Good Hope is hereby repealed.
 1909, is hereby amended-  
 (a) by the insertion in sub-section (1) after the word  
 "niatter" of the following proviso:  
-Please note that most Acts are published in English and another South African official language.  
-Currently we only have capacity to publish the English versions. This means that this document will  
-only contain even numbered pages as the other language is printed on uneven numbered pages.  
 4 UNION GAZETTE EXTRAORDINARY, 6TH JULY, 1955.  
 sections 3 and 5 of  
 Act 1 of 1911 as  

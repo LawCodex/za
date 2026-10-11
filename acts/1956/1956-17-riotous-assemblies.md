@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/riotous-assemblies-act-22-may-2015-1350"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-17-1956_1.pdf"
 gazette: "G 5651"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,7 +51,9 @@ CONDUCT ENGENDERING FEELINGS OF HOSTILITY.
 
 (3) Whenever in the opinion of the Minister there is reason to apprehend that feelings of hostility would be engendered between the European inhabitants of the Union on the one hand and any other section of the inhabitants of the Union on the other hand-
 
-(a) by the assembly of aiiy public gathering during any period or on any particular day of the week in any public place within any area; or (b) if a particular person were to attend any such gathering, Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages. UNION GAZETTE EXTRAORDINARY, 16TH MARCH, 19~6. 35 the Minister may; in the manner provided in sub-section (2), prohibit the assembly of such a gathering, or may, by notice under his hand addressed and delivered or tendered to that particular person, prohibit him from attending any public gathering in any public place within an area and during a period specified in such notice.
+(a) by the assembly of aiiy public gathering during any period or on any particular day of the week in any public place within any area; or (b) if a particular person were to attend any such gathering, as the other language is printed on even numbered pages.
+
+UNION GAZETTE EXTRAORDINARY, 16TH MARCH, 19~6. 35 the Minister may; in the manner provided in sub-section (2), prohibit the assembly of such a gathering, or may, by notice under his hand addressed and delivered or tendered to that particular person, prohibit him from attending any public gathering in any public place within an area and during a period specified in such notice.
 
 (4) (a) Any person who, after the prohibition, in terms of this section, of the assembly of a public gathering, and in contravention thereof-
 

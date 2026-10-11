@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/land-settlement-amendment-act-47-1935-17-may-1935"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act47of1935.pdf"
 gazette: "G 2275"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -46,9 +47,7 @@ Re 1 c ment of . 6. (1) Section seven of the Land SettleJl1ent Relief Act, secli
 
 7\. Sub-section (1) of section three of the Land Settlement · Acts Further Amendment Act, 1924 (Act No. 38 of 1924), is amended by the substitution for the words ' ,, more than three members" of the words "less than thre e members and not more than five members''.
 
-Remissions ofrent. . 8. (1) The Minister shall , in respect of every lease entered interest and water into under the principal Act and in force at the commencement rates. of this Act, remit- · · (a) the amount of rent, interest and water rates which Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-· Jv UNION GAZETTE EXTRAORDINARY, 17TH l\<IAY,,l935.
+Remissions ofrent. . 8. (1) The Minister shall , in respect of every lease entered interest and water into under the principal Act and in force at the commencement rates. of this Act, remit- · · (a) the amount of rent, interest and water rates which · Jv UNION GAZETTE EXTRAORDINARY, 17TH l\<IAY,,l935.
 
 has been added or which was capable of being added to the purchase price of any holding in terms of section eighteen of Act No. 26 of 1925, including any a,mount of rent, interest and water rates so added which may have been revived :in terms of sub-section (4) of the said section eighteen, whether such revival took place before or after the amendment of that sub-section by section thirty-one of Act No. 57 of 1934, for the payment of which the lessee is liable in terms of sub section (4) of section seventeen of Act No. 26 of 1925, whether he became liable before or after the amend ment of that sub-section by section thirty of Act No.
 

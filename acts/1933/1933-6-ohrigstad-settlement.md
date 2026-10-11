@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/ohrigstad-settlement-act-6-1933-08-mar-1933"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act6of1933.pdf"
 gazette: "G 2098"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -61,8 +62,6 @@ Grant of Crown land to board.
 7\. (1) The Governor-General may assign to the board for the use by the registered owners as a commonage, or for any other purpose, all or any of the unalienated Crown land within the area of the settlement, and may grant to the board all or any of such land whether it was or was not previously s.o assigned.
 
 ..
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
 
 xx; UNION GAZETTE EXTRAORDINARY, 8Tll: MARCH, 1933.
 

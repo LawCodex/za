@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/residence-republic-regulation-act-13-mar-1964-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-23-1964.pdf"
 gazette: "G 746"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -38,7 +39,7 @@ Provided that the period dunng which any person resided in the Union (whether be
 
 Provided further that the exemption by this section of any person mentioned in this para 4 graph from any provision of this Act shall cease on the termination of the employment for the purpose of which he entered the Union as aforesaid;
 
-(e) any person born before the commencement of this Act in any part of South Mrica included in the Union whose parents were lawfully resident therein and were not at that time Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. restricted to temporary or conditional resi dence by any law then in force, and any person born in any place after the commencement of this Act whose parents were at the time of his birth domiciled in any part of South Mrica included in the Union, provided such person, if hom outside the Union, entered or enters or was or is brought into the Union before the first day of June, 1937, or within three years from the date of his birth;
+(e) any person born before the commencement of this Act in any part of South Mrica included in the Union whose parents were lawfully resident therein and were not at that time restricted to temporary or conditional resi dence by any law then in force, and any person born in any place after the commencement of this Act whose parents were at the time of his birth domiciled in any part of South Mrica included in the Union, provided such person, if hom outside the Union, entered or enters or was or is brought into the Union before the first day of June, 1937, or within three years from the date of his birth;
 
 (f) any person domiciled in any province who is not such a person as is described in paragraph (e), (f) or (i) of sub-section {1) of section four;
 

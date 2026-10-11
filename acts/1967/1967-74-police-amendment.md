@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/police-amendment-act-74-1967-14-jun-1967"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-74-1967.pdf"
 gazette: "G 1764"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -48,7 +49,7 @@ sioned officers as he may deem necessary, and may, subject to the provisions of 
 
 dismiss or reduce in rank any such member.".
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. 10 No. 1764 section 10 or Act 7 or 1958, as amended by section 8 of Act 64 or 1964.
+10 No. 1764 section 10 or Act 7 or 1958, as amended by section 8 of Act 64 or 1964.
 
 Amendment or section 14 of Act 7 or 1958.
 

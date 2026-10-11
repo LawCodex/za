@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/police-amendment-act-74-1965-23-jun-1965"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-74-1965.pdf"
 gazette: "G 1154"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -37,5 +38,3 @@ S11ort title.
 "Li!IDt~~ion 32bis. Whenever any . person is conveyed in or of babll•ty makes use of any vehicle aircraft or vessel the of the State h . •. ' and ·property of t e State m Its Department of the members of South African Police, the State or any member the Force. of the Force shall not be liable to such person or his spouse, parent, child or other dependant for any loss or damage resulting from any bodily injury, loss of life or loss of or damage to property caused by or arising out of or in any way connected with the conveyance in or the use of such vehicle, . aircraft or vessel, unless such person is SQ cQnveyed or makes use thereof in or in the interests of, the performance of the functions ofthe State: Provided that the provisions of this section shall not affect the liability of a member . of the Force who wilfully causes the said loss or damage.".
 
 3\. This Act shall be called the Police Amendment Act, 1965.
-
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.

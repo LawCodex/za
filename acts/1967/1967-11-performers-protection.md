@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/performers-protection-act-22-feb-1967-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-11-1967.pdf"
 gazette: "G 1665"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -52,7 +53,7 @@ has a corresponding meaning; (ii) . . . .
 
 (b) broadcast without a fixation, or (c) first fixed, in a country which, being a party to the International Conven tion for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations, by law grants in its territory similar rights to performers in respect of their performances in the Republic.
 
-Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages. Restrictions on use of performances.
+Restrictions on use of performances.
 
 Collective performances.
 

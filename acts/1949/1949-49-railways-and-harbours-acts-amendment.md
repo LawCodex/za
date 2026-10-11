@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/railways-and-harbours-acts-amendment-act-28-may-2015-1044"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-49-1949.pdf"
 gazette: "G 4206"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -50,9 +51,7 @@ and ·
 
 (c) the closing to the public of any stations, docks, wharves, jetties, sheds, roads or landing places under its jurisdiction:
 
-Provided that no regulation under this paragraph shall authorize the Administration to interfere with the use, by the public or by any individual, Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-...
+Provided that no regulation under this paragraph shall authorize the Administration to interfere with the use, by the public or by any individual, ...
 
 '1.V "UNNON GA"ZETTE 'EXTRKORDINA'R"Y., 'l8TB>'JULY. '1~~1).. Amendment of section 7 of Act 22 of 1916.
 

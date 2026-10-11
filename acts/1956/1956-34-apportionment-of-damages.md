@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/apportionment-damages-act-22-may-2015-1344"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-34-1956_1.pdf"
 gazette: "G 5689"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -52,7 +53,7 @@ JOINT OR SEVERAL WRONGDOERS.
 
 (4) (a) If a joint wrongdoer is not sued in an action instituted against another joint wrongdoer and no notice is given to him in terms of paragraph (a) of sub-section (2), the plaintiff shall not thereafter sue him except with the leave of the court on good cause shown as to why notice was not given as aforesaid.
 
-(b) If no notice is under paragraph (a) or (b) of sub section (2) given to a joint wrongdoer who is not sued by the plaintiff, no proceedings for a contribution l Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain uneven numbered pages as the other language is printed on even numbered pages.
+(b) If no notice is under paragraph (a) or (b) of sub section (2) given to a joint wrongdoer who is not sued by the plaintiff, no proceedings for a contribution l as the other language is printed on even numbered pages.
 
 UNION OAZETIB EXTRAORDINARY, liT 1UNB, 19,6. , shall be instituted against him under sub-section (6} or (7) by any joint wrongdoer except with the leave of the court on good cause shown as to why notice was not given to him under paragraph (b) of sub section (2).
 

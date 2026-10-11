@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/performing-animals-protection-act-8-may-1935-0000"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act24of1935.pdf"
 gazette: "G 2271"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -42,9 +43,7 @@ B EIT ENACTED by the King's Most Excellent Majesty, the Senate and the House of 
 
 (b) inspect. any such animals or places and may fully enquire into the measures and methods by which such animals are controlled, restrained and . trained; and ·the course of feeding of such animals ; and (c) during any exhibition o£ trained animals or at any · other time enter upon any premises or place or portion thereof used in connection with such exhibition in order to inspect such premises or place, the animals present therein and the conditions under which such animals are maintained, controlled and fed· during such exhibition and at other times.
 
-5\. Any person who wilfully obstr·ucts delays or otherwise interferes with a police officer in the exercise of the powers herein granted or who conceals any animal with intent to defeat the exercise of such powers, or otherwise hampers or impedes the exercise of such powers spall be guilty of an offence and liable on conviction to a fine not exceeding twenty-five pounds in addition to any other penalty imposed for the contravention of any provisions o£ this Act or regulations made thereunder. Magistr~te's eourt 6. Fo:r the purpose of this Act a magistrate's court shall have to have jurisdiction jurisdiction and shall have the powers conferred by Act No. 8. of 1914. · Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-Regulations 7. The Minister may in addition to any other power specially given herein make regulations not inconsistent with this Act · )r prescribing any 'or all of the following matters- ( a) the form of application and information to be supplied for the granting of a licence and for the renewal thereof;
+5\. Any person who wilfully obstr·ucts delays or otherwise interferes with a police officer in the exercise of the powers herein granted or who conceals any animal with intent to defeat the exercise of such powers, or otherwise hampers or impedes the exercise of such powers spall be guilty of an offence and liable on conviction to a fine not exceeding twenty-five pounds in addition to any other penalty imposed for the contravention of any provisions o£ this Act or regulations made thereunder. Magistr~te's eourt 6. Fo:r the purpose of this Act a magistrate's court shall have to have jurisdiction jurisdiction and shall have the powers conferred by Act No. 8. of 1914. · Regulations 7. The Minister may in addition to any other power specially given herein make regulations not inconsistent with this Act · )r prescribing any 'or all of the following matters- ( a) the form of application and information to be supplied for the granting of a licence and for the renewal thereof;
 
 (b) the form of. certificate which shall be issued with a licence and the form of amendments which may be made on such certificates ;
 

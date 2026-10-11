@@ -10,6 +10,7 @@ status: unknown
 source: "https://www.gov.za/documents/acts/diplomatic-mission-united-kingdom-service-act-38-1961-19-may-1961"
 source_pdf: "https://www.gov.za/sites/default/files/gcis_document/201505/act-38-1961.pdf"
 gazette: "G 6692"
+text_quality: "ocr (scanned Gazette; OCR errors and omissions likely)"
 licence: "Public domain: no copyright in official legislative texts (Copyright Act 98 of 1978, s. 12(8)(a)); gov.za content reusable for non-commercial purposes"
 retrieved: 2026-10-12
 ---
@@ -36,9 +37,7 @@ To provide for the appointment of locally recruited staff for the office of the 
 
 4\. Section sixty-one of the Government Service Pensions Act, 1955, is hereby amended by the substitution in sub-section (4) for all the . words preceding the proviso thereto of the words
 
-"The provisions of paragraph (a) of sub-section (1), and of sub-section (2) of this section, other than the proviso thereto, shall apply to any person appointed under sub-section (2) of section jive of the High Commissioner's Act, 1911 (Act No.3 of 1911), to a clerical post in the office of the High Commissioner referred to therein, or to any post in the said office approved by the Commission for the purposes of this sub-section, who is in terms of sub-section (2) of section one of the Diplomatic Mission in United Kingdom Service Act, 1961, deemed to have Please note that most Acts are published in English and another South African official language. Currently we only have capacity to publish the English versions. This means that this document will only contain even numbered pages as the other language is printed on uneven numbered pages.
-
-Repeal of laws.
+"The provisions of paragraph (a) of sub-section (1), and of sub-section (2) of this section, other than the proviso thereto, shall apply to any person appointed under sub-section (2) of section jive of the High Commissioner's Act, 1911 (Act No.3 of 1911), to a clerical post in the office of the High Commissioner referred to therein, or to any post in the said office approved by the Commission for the purposes of this sub-section, who is in terms of sub-section (2) of section one of the Diplomatic Mission in United Kingdom Service Act, 1961, deemed to have Repeal of laws.
 
 Short title and commencement.
 
